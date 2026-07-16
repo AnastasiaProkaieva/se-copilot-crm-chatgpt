@@ -196,6 +196,20 @@ story an SE Copilot is uniquely good at surfacing.
 | Competitor | **Snowflake** — "standardized for warehousing, comparing TCO" (threat: Low→Medium, two mentions) | `competitor_mentions.csv` |
 | POCs | **POC-0047** (At Risk) and **POC-0057** (Completed – Failed) — *both* targeting "sub-10s query latency on the benchmark dashboard" | `pocs.csv` |
 
+> **Live-org reconciliation (soma-moma):** the CSVs above are the source of
+> truth for the generated dataset, but the values differ slightly once loaded
+> into the connected Salesforce org, because Salesforce assigns its own record
+> numbers and models the SE/AE team on the standard `OpportunityTeamMember`
+> object. When demoing against the live plugin, expect: **AE = Bill South**
+> (Opportunity Owner) and **SE = Asya Prokaev** (`Pre-Sales Consultant` team
+> role) in place of the CSV's SE-037 / Christina Murphy; and **POC-00046 /
+> POC-00056** in place of POC-0047 / POC-0057. Account industry, employee
+> count, region, and tech stack live on custom fields (`Fluxora_Industry__c`,
+> `Employee_Count__c`, `Region__c`, `Tech_Stack_Tags__c`), not the standard
+> Account fields. All other values (amount, stage, close date, POC criteria,
+> "environment stable" notes, Snowflake mentions, buyer contacts) match
+> exactly.
+
 **The buried problem in the data:** Barnett Group has run the Lakehouse
 Core POC *twice* and missed the same sub-10s latency criterion both times
 (one POC is At Risk, the other already failed) — yet the SE's own check-in

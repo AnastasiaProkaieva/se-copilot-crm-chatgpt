@@ -37,6 +37,7 @@
 
 - $592K Lakehouse Core deal, Business Case stage, close April 2026
 - Economic buyer: Ryan Miller (CDO); competitor: Snowflake (TCO angle)
+- AE: Bill South (deal owner); SE: Asya Prokaev (Pre-Sales Consultant on the team)
 - **Prompt 1:** `Brief me on OPP-0088` → surfaces buried contradiction: 2 POCs missed latency SLA, both failed/at-risk, but SE notes say "stable"
 - **Prompt 2:** `Show me my at-risk POCs` → draft status update for AE in <10 sec
 - **Prompt 3:** (paste CDO's 3 security questions) → RFP answers reused from master doc
@@ -61,9 +62,9 @@
 
 | Time | Beat | Prompt / Action | What the Copilot Returns |
 |------|------|----------------|-------------------------|
-| 0:00–0:30 | **Setup** | Screen share: ChatGPT Enterprise open, "Fluxora SE Copilot" workspace visible. "I'm SE-037, prepping for a sync with my AE Christina Murphy on the Barnett Group deal." | *(No Copilot action yet; just context-setting for audience)* |
-| 0:30–2:00 | **Deal Brief** | Type: `Brief me on OPP-0088` | **Returns:** Deal summary (Barnett Group, $592K Lakehouse Core, Business Case, close 2026-04-07, Strategic pod, AE Christina Murphy). Economic buyer: Ryan Miller (CDO). Competitor: Snowflake (TCO comparison, threat Medium). **KEY INSIGHT (highlight this):** "⚠️ POC-0047 At Risk + POC-0057 Completed–Failed — both missed sub-10s latency SLA. Your notes say 'environment stable' but neither POC hit the benchmark. Recommend: re-scope POC or address perf gap before Proposal." |
-| 2:00–2:45 | **POC Tracker** | Type: `Show me my at-risk POCs` | **Returns:** Table: POC-0047 (Barnett Group, At Risk, benchmark latency issue). **Draft status update:** "Christina — POC-0047 flagged. Both POCs missed latency target; we advanced to Business Case but Snowflake is working TCO angle. Recommend call with Ryan Miller to reframe around cost + governance, not raw speed." |
+| 0:00–0:30 | **Setup** | Screen share: ChatGPT open, "Fluxora SE Copilot" skill visible. "I'm the SE on the Barnett Group deal, prepping for a sync with my AE Bill South." | *(No Copilot action yet; just context-setting for audience)* |
+| 0:30–2:00 | **Deal Brief** | Type: `Brief me on OPP-0088` | **Returns:** Deal summary (Barnett Group, $592K Lakehouse Core, Business Case, close 2026-04-07). AE: Bill South (owner); SE: Asya Prokaev. Economic buyer: Ryan Miller (CDO). Competitor: Snowflake (TCO comparison, threat Medium). **KEY INSIGHT (highlight this):** "⚠️ POC-00046 At Risk + POC-00056 Completed–Failed — both missed sub-10s latency SLA. Your notes say 'environment stable' but neither POC hit the benchmark. Recommend: re-scope POC or address perf gap before Proposal." |
+| 2:00–2:45 | **POC Tracker** | Type: `Show me my at-risk POCs` | **Returns:** Table: POC-00046 (Barnett Group, At Risk, benchmark latency issue). **Draft status update:** "Bill — POC-00046 flagged. Both POCs missed latency target; we advanced to Business Case but Snowflake is working TCO angle. Recommend call with Ryan Miller to reframe around cost + governance, not raw speed." |
 | 2:45–3:45 | **RFP Drafting** | Paste (from a doc): "1. What encryption standards do you support? 2. Do you have SOC 2 Type II? 3. How does RBAC work for multi-tenant environments?" | **Returns:** "1. AES-256 at rest, TLS 1.2+ in transit. 2. Current SOC 2 Type II report available under NDA. 3. Governance Suite provides row/column-level access policies scoped by team, workspace, or business unit." *(Reused from master RFP answers in rfp_responses.csv)* |
 | 3:45–4:45 | **Discovery Prep** | Type: `Prep me for ACC-0009` (Oconnor Group — a greenfield account with no open opportunity yet) | **Returns:** Company: Oconnor Group (Gaming, 3,686 employees, APAC). Stack: AWS, Snowflake, Azure. Likely pain points: (1) Snowflake cost/TCO as data volume grows, (2) multi-cloud governance across AWS+Azure, (3) analytics latency at gaming-event scale. Discovery questions: "How is your analytics spend trending on Snowflake as event volume grows?", "How are you governing data access across AWS and Azure today?", "Where do you feel latency pain — ingestion, query, or serving?" |
 | 4:45–5:00 | **Wrap** | "That's four workflows — Deal Brief, POC Tracker, RFP, Discovery — each under 60 seconds. Questions?" | *(Pause for Q&A or transition to next section)* |
@@ -87,8 +88,8 @@
 ## Setup / Prerequisites
 
 **Before the demo, have open:**
-1. **ChatGPT Enterprise** — "Fluxora SE Copilot" workspace, logged in as SE-037 (or a test SE persona).
-2. **Data loaded** — Copilot has access to `/output/*.csv` files (accounts, opportunities, contacts, POCs, competitors, RFP responses). Verify OPP-0088, POC-0047, POC-0057, and ACC-0009 (Oconnor Group) exist in the data.
+1. **ChatGPT (Pro)** — the `deal-brief` skill uploaded, with the **Salesforce CRM** plugin (MCP) connected to the `soma-moma` org.
+2. **Data loaded** — the org holds the synthetic dataset. Verify OPP-0088 (Barnett Group), POC-00046 + POC-00056, and ACC-0009 (Oconnor Group) resolve via the connected plugin. Note: the org assigns its own POC record numbers (POC-00046/00056), which differ from the CSV IDs (POC-0047/0057) — the content is identical.
 3. **Doc for RFP paste** — A scratch doc/notepad with the 3 security questions pre-typed, ready to copy-paste.
 4. **Reference docs** (optional, don't need to show): `docs/superpowers/specs/2026-07-16-crm-agent-demo-design.md` (Section 7 is the scenario), `docs/chatgpt-enterprise-setup-guide.md`.
 
