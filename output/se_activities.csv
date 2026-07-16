@@ -1,0 +1,901 @@
+activity_id,opportunity_id,se_id,activity_type,activity_date,notes
+ACT-0001,OPP-0207,SE-006,RFP Work,2026-04-10,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0002,OPP-0002,SE-026,Internal Sync,2026-06-02,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0003,OPP-0291,SE-036,RFP Work,2026-04-15,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0004,OPP-0350,SE-021,POC Check-in,2026-05-15,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0005,OPP-0324,SE-007,RFP Work,2026-05-24,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0006,OPP-0042,SE-031,POC Check-in,2026-04-09,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0007,OPP-0091,SE-037,POC Check-in,2026-04-01,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0008,OPP-0339,SE-014,Discovery Call,2026-05-15,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0009,OPP-0055,SE-042,POC Check-in,2026-06-03,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0010,OPP-0044,SE-042,POC Check-in,2026-03-26,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0011,OPP-0072,SE-004,RFP Work,2026-06-24,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0012,OPP-0304,SE-017,Technical Demo,2026-04-01,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0013,OPP-0033,SE-036,RFP Work,2026-07-07,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0014,OPP-0274,SE-030,POC Check-in,2026-05-01,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0015,OPP-0174,SE-005,Discovery Call,2026-07-08,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0016,OPP-0208,SE-009,POC Check-in,2026-07-06,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0017,OPP-0348,SE-036,Technical Demo,2026-05-24,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0018,OPP-0037,SE-004,Technical Demo,2026-07-10,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0019,OPP-0335,SE-003,Technical Demo,2026-04-15,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0020,OPP-0125,SE-010,RFP Work,2026-06-07,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0021,OPP-0324,SE-005,Discovery Call,2026-06-08,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0022,OPP-0234,SE-041,POC Check-in,2026-04-09,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0023,OPP-0055,SE-009,Technical Demo,2026-06-29,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0024,OPP-0033,SE-014,RFP Work,2026-04-08,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0025,OPP-0348,SE-027,RFP Work,2026-05-15,Drafted responses covering ModelServe security and compliance questions.
+ACT-0026,OPP-0295,SE-036,POC Check-in,2026-04-17,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0027,OPP-0110,SE-004,Technical Demo,2026-03-23,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0028,OPP-0172,SE-006,Internal Sync,2026-07-04,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0029,OPP-0073,SE-028,Discovery Call,2026-07-04,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0030,OPP-0284,SE-012,Technical Demo,2026-07-10,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0031,OPP-0298,SE-004,RFP Work,2026-03-17,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0032,OPP-0324,SE-041,Technical Demo,2026-06-20,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0033,OPP-0009,SE-033,RFP Work,2026-05-13,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0034,OPP-0004,SE-013,Discovery Call,2026-05-15,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0035,OPP-0214,SE-032,Discovery Call,2026-06-28,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0036,OPP-0074,SE-042,Technical Demo,2026-04-03,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0037,OPP-0211,SE-017,POC Check-in,2026-06-02,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0038,OPP-0306,SE-013,Technical Demo,2026-06-17,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0039,OPP-0322,SE-021,RFP Work,2026-06-21,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0040,OPP-0003,SE-037,POC Check-in,2026-03-22,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0041,OPP-0061,SE-035,Technical Demo,2026-05-02,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0042,OPP-0277,SE-034,Discovery Call,2026-07-08,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0043,OPP-0321,SE-015,Technical Demo,2026-03-26,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0044,OPP-0100,SE-009,POC Check-in,2026-04-19,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0045,OPP-0255,SE-013,Technical Demo,2026-07-05,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0046,OPP-0028,SE-025,Technical Demo,2026-07-12,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0047,OPP-0223,SE-018,POC Check-in,2026-05-10,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0048,OPP-0023,SE-008,POC Check-in,2026-03-16,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0049,OPP-0081,SE-003,Discovery Call,2026-05-27,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0050,OPP-0037,SE-017,RFP Work,2026-06-04,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0051,OPP-0215,SE-014,RFP Work,2026-06-03,Drafted responses covering ModelServe security and compliance questions.
+ACT-0052,OPP-0057,SE-022,POC Check-in,2026-06-05,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0053,OPP-0122,SE-028,Technical Demo,2026-03-22,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0054,OPP-0113,SE-006,Technical Demo,2026-06-09,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0055,OPP-0028,SE-029,RFP Work,2026-07-02,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0056,OPP-0313,SE-031,Technical Demo,2026-05-18,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0057,OPP-0192,SE-010,Technical Demo,2026-04-27,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0058,OPP-0324,SE-024,RFP Work,2026-06-16,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0059,OPP-0172,SE-010,POC Check-in,2026-06-26,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0060,OPP-0144,SE-010,Discovery Call,2026-03-18,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0061,OPP-0235,SE-028,Discovery Call,2026-06-03,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0062,OPP-0113,SE-020,Technical Demo,2026-06-16,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0063,OPP-0327,SE-041,Internal Sync,2026-05-18,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0064,OPP-0045,SE-028,Technical Demo,2026-05-21,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0065,OPP-0111,SE-039,Internal Sync,2026-06-17,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0066,OPP-0143,SE-002,RFP Work,2026-05-20,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0067,OPP-0127,SE-022,RFP Work,2026-04-14,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0068,OPP-0303,SE-011,RFP Work,2026-04-21,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0069,OPP-0214,SE-004,Internal Sync,2026-04-28,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0070,OPP-0259,SE-004,Discovery Call,2026-06-21,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0071,OPP-0246,SE-008,RFP Work,2026-04-09,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0072,OPP-0124,SE-007,RFP Work,2026-06-20,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0073,OPP-0209,SE-015,Internal Sync,2026-04-22,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0074,OPP-0152,SE-017,Technical Demo,2026-04-29,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0075,OPP-0246,SE-021,Discovery Call,2026-05-28,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0076,OPP-0293,SE-039,Technical Demo,2026-04-15,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0077,OPP-0238,SE-010,Discovery Call,2026-07-14,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0078,OPP-0190,SE-042,RFP Work,2026-05-18,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0079,OPP-0322,SE-006,RFP Work,2026-06-08,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0080,OPP-0272,SE-004,RFP Work,2026-06-01,Drafted responses covering ModelServe security and compliance questions.
+ACT-0081,OPP-0139,SE-041,POC Check-in,2026-05-20,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0082,OPP-0042,SE-041,Internal Sync,2026-06-07,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0083,OPP-0264,SE-025,POC Check-in,2026-05-15,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0084,OPP-0197,SE-025,Discovery Call,2026-05-09,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0085,OPP-0188,SE-025,RFP Work,2026-04-07,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0086,OPP-0288,SE-015,Technical Demo,2026-05-22,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0087,OPP-0123,SE-036,Technical Demo,2026-05-24,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0088,OPP-0298,SE-015,Discovery Call,2026-05-18,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0089,OPP-0181,SE-019,Technical Demo,2026-06-05,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0090,OPP-0142,SE-005,Internal Sync,2026-04-28,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0091,OPP-0177,SE-030,Discovery Call,2026-04-20,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0092,OPP-0241,SE-036,RFP Work,2026-06-28,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0093,OPP-0232,SE-041,Internal Sync,2026-06-12,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0094,OPP-0097,SE-031,POC Check-in,2026-06-19,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0095,OPP-0201,SE-013,Discovery Call,2026-04-05,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0096,OPP-0056,SE-012,POC Check-in,2026-04-28,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0097,OPP-0076,SE-033,POC Check-in,2026-05-03,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0098,OPP-0267,SE-042,Technical Demo,2026-05-19,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0099,OPP-0214,SE-036,Discovery Call,2026-04-05,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0100,OPP-0178,SE-028,Technical Demo,2026-04-25,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0101,OPP-0150,SE-014,RFP Work,2026-06-06,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0102,OPP-0119,SE-035,Discovery Call,2026-06-28,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0103,OPP-0297,SE-023,POC Check-in,2026-05-29,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0104,OPP-0304,SE-035,POC Check-in,2026-04-22,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0105,OPP-0235,SE-021,Internal Sync,2026-07-11,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0106,OPP-0157,SE-012,Internal Sync,2026-07-14,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0107,OPP-0248,SE-025,POC Check-in,2026-06-02,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0108,OPP-0076,SE-024,POC Check-in,2026-06-19,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0109,OPP-0086,SE-041,POC Check-in,2026-06-09,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0110,OPP-0094,SE-013,Technical Demo,2026-04-28,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0111,OPP-0122,SE-009,Technical Demo,2026-06-03,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0112,OPP-0295,SE-010,Discovery Call,2026-05-30,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0113,OPP-0190,SE-013,RFP Work,2026-05-25,Drafted responses covering ModelServe security and compliance questions.
+ACT-0114,OPP-0341,SE-022,Technical Demo,2026-04-21,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0115,OPP-0191,SE-030,POC Check-in,2026-07-13,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0116,OPP-0274,SE-021,Internal Sync,2026-03-29,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0117,OPP-0208,SE-033,Discovery Call,2026-06-17,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0118,OPP-0164,SE-011,Technical Demo,2026-04-20,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0119,OPP-0332,SE-020,Discovery Call,2026-06-24,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0120,OPP-0294,SE-011,RFP Work,2026-06-14,Drafted responses covering ModelServe security and compliance questions.
+ACT-0121,OPP-0174,SE-009,Internal Sync,2026-04-29,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0122,OPP-0072,SE-037,RFP Work,2026-06-04,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0123,OPP-0013,SE-027,Discovery Call,2026-06-21,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0124,OPP-0229,SE-024,Internal Sync,2026-06-15,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0125,OPP-0029,SE-040,Discovery Call,2026-04-02,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0126,OPP-0143,SE-014,Technical Demo,2026-07-15,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0127,OPP-0276,SE-030,Discovery Call,2026-05-11,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0128,OPP-0100,SE-033,Discovery Call,2026-03-21,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0129,OPP-0342,SE-025,POC Check-in,2026-07-14,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0130,OPP-0219,SE-025,RFP Work,2026-04-23,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0131,OPP-0007,SE-020,RFP Work,2026-04-20,Drafted responses covering ModelServe security and compliance questions.
+ACT-0132,OPP-0158,SE-030,POC Check-in,2026-07-10,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0133,OPP-0111,SE-030,Internal Sync,2026-05-28,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0134,OPP-0148,SE-012,RFP Work,2026-04-29,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0135,OPP-0072,SE-039,RFP Work,2026-06-11,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0136,OPP-0074,SE-015,Internal Sync,2026-05-12,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0137,OPP-0269,SE-023,POC Check-in,2026-05-28,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0138,OPP-0046,SE-002,Discovery Call,2026-04-13,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0139,OPP-0213,SE-013,RFP Work,2026-04-01,Drafted responses covering ModelServe security and compliance questions.
+ACT-0140,OPP-0291,SE-010,Internal Sync,2026-05-25,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0141,OPP-0196,SE-020,Technical Demo,2026-04-18,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0142,OPP-0022,SE-021,Internal Sync,2026-06-23,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0143,OPP-0253,SE-037,Internal Sync,2026-05-17,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0144,OPP-0014,SE-002,RFP Work,2026-05-19,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0145,OPP-0154,SE-042,Technical Demo,2026-06-28,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0146,OPP-0335,SE-020,RFP Work,2026-07-14,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0147,OPP-0252,SE-017,RFP Work,2026-03-30,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0148,OPP-0142,SE-033,Discovery Call,2026-05-12,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0149,OPP-0298,SE-032,Discovery Call,2026-05-27,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0150,OPP-0133,SE-042,Internal Sync,2026-06-10,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0151,OPP-0192,SE-034,RFP Work,2026-03-28,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0152,OPP-0133,SE-012,Internal Sync,2026-04-16,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0153,OPP-0075,SE-022,Internal Sync,2026-04-01,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0154,OPP-0183,SE-012,RFP Work,2026-04-20,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0155,OPP-0185,SE-028,Discovery Call,2026-04-05,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0156,OPP-0149,SE-020,POC Check-in,2026-06-27,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0157,OPP-0264,SE-014,Internal Sync,2026-04-18,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0158,OPP-0307,SE-012,Technical Demo,2026-06-21,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0159,OPP-0162,SE-021,Internal Sync,2026-03-30,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0160,OPP-0050,SE-036,POC Check-in,2026-06-21,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0161,OPP-0074,SE-002,Internal Sync,2026-06-17,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0162,OPP-0191,SE-033,Technical Demo,2026-06-27,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0163,OPP-0084,SE-008,RFP Work,2026-05-05,Drafted responses covering ModelServe security and compliance questions.
+ACT-0164,OPP-0258,SE-016,Technical Demo,2026-04-07,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0165,OPP-0214,SE-031,Technical Demo,2026-07-09,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0166,OPP-0068,SE-003,Discovery Call,2026-03-19,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0167,OPP-0160,SE-025,RFP Work,2026-05-11,Drafted responses covering ModelServe security and compliance questions.
+ACT-0168,OPP-0306,SE-035,Technical Demo,2026-07-04,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0169,OPP-0156,SE-003,POC Check-in,2026-03-26,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0170,OPP-0066,SE-011,Discovery Call,2026-05-12,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0171,OPP-0065,SE-015,Technical Demo,2026-06-15,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0172,OPP-0218,SE-009,Technical Demo,2026-06-10,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0173,OPP-0248,SE-029,Discovery Call,2026-04-28,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0174,OPP-0056,SE-004,Discovery Call,2026-04-24,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0175,OPP-0241,SE-009,Internal Sync,2026-07-06,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0176,OPP-0034,SE-021,POC Check-in,2026-04-10,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0177,OPP-0064,SE-040,Discovery Call,2026-06-24,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0178,OPP-0095,SE-024,Technical Demo,2026-03-19,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0179,OPP-0075,SE-019,Discovery Call,2026-04-13,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0180,OPP-0181,SE-012,Internal Sync,2026-06-17,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0181,OPP-0259,SE-038,Internal Sync,2026-04-24,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0182,OPP-0297,SE-002,Discovery Call,2026-03-16,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0183,OPP-0099,SE-020,Internal Sync,2026-07-11,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0184,OPP-0051,SE-015,Technical Demo,2026-04-13,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0185,OPP-0188,SE-039,Internal Sync,2026-07-04,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0186,OPP-0345,SE-008,Technical Demo,2026-04-11,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0187,OPP-0195,SE-029,Technical Demo,2026-06-22,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0188,OPP-0209,SE-009,Technical Demo,2026-04-15,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0189,OPP-0239,SE-009,POC Check-in,2026-06-04,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0190,OPP-0254,SE-025,Internal Sync,2026-04-09,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0191,OPP-0043,SE-022,POC Check-in,2026-04-15,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0192,OPP-0198,SE-020,RFP Work,2026-03-29,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0193,OPP-0228,SE-016,RFP Work,2026-05-25,Drafted responses covering ModelServe security and compliance questions.
+ACT-0194,OPP-0149,SE-029,Internal Sync,2026-05-20,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0195,OPP-0244,SE-025,Technical Demo,2026-04-03,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0196,OPP-0346,SE-033,Technical Demo,2026-06-14,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0197,OPP-0225,SE-035,Discovery Call,2026-06-22,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0198,OPP-0074,SE-027,Discovery Call,2026-06-14,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0199,OPP-0087,SE-006,RFP Work,2026-06-24,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0200,OPP-0174,SE-014,POC Check-in,2026-06-20,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0201,OPP-0063,SE-016,Internal Sync,2026-05-12,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0202,OPP-0143,SE-039,RFP Work,2026-04-22,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0203,OPP-0330,SE-027,Internal Sync,2026-05-13,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0204,OPP-0342,SE-040,POC Check-in,2026-04-18,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0205,OPP-0262,SE-019,RFP Work,2026-06-23,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0206,OPP-0056,SE-009,Technical Demo,2026-06-10,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0207,OPP-0255,SE-016,POC Check-in,2026-05-21,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0208,OPP-0051,SE-005,Technical Demo,2026-06-08,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0209,OPP-0348,SE-003,Discovery Call,2026-07-02,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0210,OPP-0310,SE-022,Technical Demo,2026-04-10,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0211,OPP-0319,SE-041,Technical Demo,2026-04-14,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0212,OPP-0339,SE-035,Discovery Call,2026-04-18,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0213,OPP-0104,SE-020,RFP Work,2026-05-09,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0214,OPP-0259,SE-018,RFP Work,2026-04-16,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0215,OPP-0277,SE-036,Internal Sync,2026-04-06,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0216,OPP-0221,SE-009,Discovery Call,2026-04-10,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0217,OPP-0162,SE-026,RFP Work,2026-05-02,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0218,OPP-0019,SE-004,RFP Work,2026-06-10,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0219,OPP-0085,SE-033,Technical Demo,2026-05-12,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0220,OPP-0160,SE-026,RFP Work,2026-04-05,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0221,OPP-0292,SE-033,RFP Work,2026-04-14,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0222,OPP-0244,SE-037,Internal Sync,2026-06-14,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0223,OPP-0201,SE-018,Technical Demo,2026-04-23,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0224,OPP-0316,SE-024,RFP Work,2026-05-11,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0225,OPP-0032,SE-003,POC Check-in,2026-04-26,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0226,OPP-0066,SE-025,Internal Sync,2026-05-30,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0227,OPP-0321,SE-023,POC Check-in,2026-04-27,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0228,OPP-0220,SE-024,RFP Work,2026-04-25,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0229,OPP-0180,SE-005,POC Check-in,2026-04-28,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0230,OPP-0121,SE-021,Technical Demo,2026-04-01,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0231,OPP-0034,SE-021,Internal Sync,2026-05-26,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0232,OPP-0087,SE-003,Discovery Call,2026-05-20,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0233,OPP-0020,SE-031,Internal Sync,2026-03-25,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0234,OPP-0137,SE-003,RFP Work,2026-04-23,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0235,OPP-0163,SE-026,RFP Work,2026-04-25,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0236,OPP-0166,SE-038,Internal Sync,2026-06-30,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0237,OPP-0052,SE-015,Discovery Call,2026-05-04,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0238,OPP-0258,SE-023,POC Check-in,2026-06-10,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0239,OPP-0187,SE-029,Technical Demo,2026-07-08,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0240,OPP-0326,SE-006,Technical Demo,2026-06-03,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0241,OPP-0148,SE-018,Internal Sync,2026-05-30,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0242,OPP-0294,SE-027,Discovery Call,2026-06-26,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0243,OPP-0297,SE-008,Technical Demo,2026-05-03,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0244,OPP-0140,SE-006,Internal Sync,2026-05-23,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0245,OPP-0219,SE-015,Internal Sync,2026-03-18,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0246,OPP-0334,SE-021,POC Check-in,2026-05-13,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0247,OPP-0222,SE-036,Internal Sync,2026-05-18,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0248,OPP-0213,SE-027,POC Check-in,2026-06-04,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0249,OPP-0344,SE-037,POC Check-in,2026-05-29,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0250,OPP-0322,SE-035,Technical Demo,2026-05-23,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0251,OPP-0110,SE-031,Technical Demo,2026-05-28,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0252,OPP-0290,SE-042,POC Check-in,2026-06-11,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0253,OPP-0187,SE-031,Discovery Call,2026-06-19,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0254,OPP-0078,SE-021,Technical Demo,2026-06-10,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0255,OPP-0164,SE-006,RFP Work,2026-04-16,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0256,OPP-0137,SE-020,Technical Demo,2026-05-13,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0257,OPP-0308,SE-017,Technical Demo,2026-05-14,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0258,OPP-0059,SE-011,RFP Work,2026-05-02,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0259,OPP-0126,SE-021,Technical Demo,2026-07-05,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0260,OPP-0287,SE-029,RFP Work,2026-03-21,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0261,OPP-0104,SE-012,RFP Work,2026-05-15,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0262,OPP-0015,SE-018,POC Check-in,2026-03-20,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0263,OPP-0330,SE-004,POC Check-in,2026-04-09,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0264,OPP-0029,SE-007,RFP Work,2026-04-18,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0265,OPP-0033,SE-028,POC Check-in,2026-05-14,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0266,OPP-0204,SE-010,POC Check-in,2026-05-20,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0267,OPP-0293,SE-034,Technical Demo,2026-06-14,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0268,OPP-0255,SE-007,Discovery Call,2026-03-16,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0269,OPP-0161,SE-023,Technical Demo,2026-07-13,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0270,OPP-0121,SE-029,Internal Sync,2026-05-09,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0271,OPP-0055,SE-013,Technical Demo,2026-03-25,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0272,OPP-0226,SE-028,Technical Demo,2026-06-20,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0273,OPP-0252,SE-036,POC Check-in,2026-05-14,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0274,OPP-0163,SE-036,POC Check-in,2026-06-14,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0275,OPP-0350,SE-017,RFP Work,2026-05-26,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0276,OPP-0186,SE-032,POC Check-in,2026-05-27,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0277,OPP-0011,SE-040,POC Check-in,2026-04-28,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0278,OPP-0344,SE-017,Discovery Call,2026-03-21,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0279,OPP-0159,SE-042,POC Check-in,2026-05-29,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0280,OPP-0274,SE-017,POC Check-in,2026-06-11,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0281,OPP-0005,SE-027,RFP Work,2026-04-01,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0282,OPP-0047,SE-017,POC Check-in,2026-03-20,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0283,OPP-0083,SE-030,POC Check-in,2026-05-06,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0284,OPP-0018,SE-019,POC Check-in,2026-07-14,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0285,OPP-0242,SE-028,Discovery Call,2026-05-25,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0286,OPP-0052,SE-012,POC Check-in,2026-04-15,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0287,OPP-0181,SE-028,POC Check-in,2026-05-26,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0288,OPP-0233,SE-003,Internal Sync,2026-07-12,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0289,OPP-0323,SE-030,Discovery Call,2026-07-01,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0290,OPP-0206,SE-014,Technical Demo,2026-04-05,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0291,OPP-0295,SE-007,POC Check-in,2026-04-15,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0292,OPP-0128,SE-035,Discovery Call,2026-07-08,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0293,OPP-0164,SE-030,Technical Demo,2026-06-28,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0294,OPP-0134,SE-013,RFP Work,2026-05-18,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0295,OPP-0145,SE-014,Internal Sync,2026-05-18,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0296,OPP-0189,SE-013,Discovery Call,2026-06-02,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0297,OPP-0293,SE-016,RFP Work,2026-05-29,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0298,OPP-0286,SE-041,Discovery Call,2026-07-11,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0299,OPP-0237,SE-014,Technical Demo,2026-05-06,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0300,OPP-0026,SE-027,POC Check-in,2026-06-30,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0301,OPP-0308,SE-018,Internal Sync,2026-04-19,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0302,OPP-0189,SE-012,Technical Demo,2026-05-28,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0303,OPP-0008,SE-035,Internal Sync,2026-06-28,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0304,OPP-0345,SE-033,RFP Work,2026-05-27,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0305,OPP-0105,SE-014,Discovery Call,2026-06-20,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0306,OPP-0254,SE-026,POC Check-in,2026-05-06,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0307,OPP-0106,SE-040,Technical Demo,2026-03-30,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0308,OPP-0347,SE-014,Technical Demo,2026-04-26,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0309,OPP-0210,SE-011,RFP Work,2026-06-18,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0310,OPP-0135,SE-017,Discovery Call,2026-03-24,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0311,OPP-0128,SE-025,Internal Sync,2026-07-09,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0312,OPP-0044,SE-002,Internal Sync,2026-04-17,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0313,OPP-0166,SE-027,RFP Work,2026-05-04,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0314,OPP-0217,SE-040,Technical Demo,2026-05-17,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0315,OPP-0049,SE-037,POC Check-in,2026-06-03,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0316,OPP-0171,SE-017,Discovery Call,2026-04-19,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0317,OPP-0311,SE-040,RFP Work,2026-06-04,Drafted responses covering ModelServe security and compliance questions.
+ACT-0318,OPP-0130,SE-034,Discovery Call,2026-05-23,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0319,OPP-0155,SE-027,Internal Sync,2026-03-20,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0320,OPP-0287,SE-004,POC Check-in,2026-04-08,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0321,OPP-0134,SE-012,Internal Sync,2026-04-08,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0322,OPP-0174,SE-031,Internal Sync,2026-06-15,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0323,OPP-0163,SE-035,Technical Demo,2026-07-09,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0324,OPP-0134,SE-009,RFP Work,2026-06-11,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0325,OPP-0066,SE-033,POC Check-in,2026-03-20,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0326,OPP-0221,SE-020,POC Check-in,2026-04-18,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0327,OPP-0265,SE-022,POC Check-in,2026-06-10,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0328,OPP-0162,SE-033,RFP Work,2026-04-16,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0329,OPP-0028,SE-014,Technical Demo,2026-06-07,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0330,OPP-0118,SE-013,Technical Demo,2026-06-06,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0331,OPP-0134,SE-012,Discovery Call,2026-04-05,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0332,OPP-0060,SE-033,RFP Work,2026-04-05,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0333,OPP-0183,SE-037,Discovery Call,2026-04-03,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0334,OPP-0253,SE-009,RFP Work,2026-04-01,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0335,OPP-0179,SE-007,Technical Demo,2026-06-26,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0336,OPP-0093,SE-012,Technical Demo,2026-05-22,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0337,OPP-0289,SE-039,Internal Sync,2026-05-22,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0338,OPP-0270,SE-038,Technical Demo,2026-04-10,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0339,OPP-0040,SE-017,Technical Demo,2026-04-23,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0340,OPP-0169,SE-003,RFP Work,2026-06-28,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0341,OPP-0202,SE-025,POC Check-in,2026-06-18,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0342,OPP-0166,SE-011,Internal Sync,2026-03-25,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0343,OPP-0236,SE-032,Discovery Call,2026-06-09,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0344,OPP-0305,SE-002,RFP Work,2026-04-12,Drafted responses covering ModelServe security and compliance questions.
+ACT-0345,OPP-0336,SE-041,POC Check-in,2026-05-16,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0346,OPP-0292,SE-010,RFP Work,2026-04-22,Drafted responses covering ModelServe security and compliance questions.
+ACT-0347,OPP-0330,SE-020,Technical Demo,2026-04-02,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0348,OPP-0037,SE-037,POC Check-in,2026-04-10,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0349,OPP-0048,SE-027,Internal Sync,2026-03-26,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0350,OPP-0123,SE-027,POC Check-in,2026-04-02,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0351,OPP-0107,SE-012,Discovery Call,2026-05-30,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0352,OPP-0146,SE-011,RFP Work,2026-03-26,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0353,OPP-0252,SE-029,Discovery Call,2026-06-10,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0354,OPP-0184,SE-008,POC Check-in,2026-03-19,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0355,OPP-0251,SE-030,POC Check-in,2026-03-22,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0356,OPP-0138,SE-038,RFP Work,2026-06-15,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0357,OPP-0047,SE-029,Internal Sync,2026-05-08,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0358,OPP-0223,SE-042,POC Check-in,2026-03-23,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0359,OPP-0021,SE-034,RFP Work,2026-04-27,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0360,OPP-0347,SE-016,POC Check-in,2026-03-31,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0361,OPP-0270,SE-042,Technical Demo,2026-05-04,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0362,OPP-0149,SE-031,Internal Sync,2026-06-27,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0363,OPP-0245,SE-021,RFP Work,2026-03-31,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0364,OPP-0154,SE-017,Technical Demo,2026-05-18,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0365,OPP-0152,SE-038,Internal Sync,2026-06-28,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0366,OPP-0024,SE-034,Discovery Call,2026-04-04,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0367,OPP-0212,SE-008,Discovery Call,2026-07-09,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0368,OPP-0182,SE-018,RFP Work,2026-03-18,Drafted responses covering ModelServe security and compliance questions.
+ACT-0369,OPP-0258,SE-003,Internal Sync,2026-03-29,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0370,OPP-0092,SE-013,Discovery Call,2026-04-26,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0371,OPP-0043,SE-028,RFP Work,2026-06-16,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0372,OPP-0301,SE-031,POC Check-in,2026-04-07,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0373,OPP-0175,SE-013,RFP Work,2026-03-26,Drafted responses covering ModelServe security and compliance questions.
+ACT-0374,OPP-0041,SE-040,Technical Demo,2026-04-10,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0375,OPP-0223,SE-036,POC Check-in,2026-05-22,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0376,OPP-0203,SE-009,Discovery Call,2026-04-24,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0377,OPP-0336,SE-032,Discovery Call,2026-04-24,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0378,OPP-0337,SE-040,RFP Work,2026-06-13,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0379,OPP-0317,SE-041,RFP Work,2026-03-21,Drafted responses covering ModelServe security and compliance questions.
+ACT-0380,OPP-0155,SE-007,POC Check-in,2026-04-01,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0381,OPP-0008,SE-014,Technical Demo,2026-05-06,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0382,OPP-0097,SE-003,Discovery Call,2026-04-08,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0383,OPP-0333,SE-011,Technical Demo,2026-04-22,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0384,OPP-0321,SE-036,Technical Demo,2026-06-10,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0385,OPP-0155,SE-031,Technical Demo,2026-06-23,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0386,OPP-0217,SE-003,Technical Demo,2026-07-12,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0387,OPP-0079,SE-030,Discovery Call,2026-05-29,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0388,OPP-0011,SE-030,RFP Work,2026-06-29,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0389,OPP-0104,SE-020,Internal Sync,2026-04-06,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0390,OPP-0027,SE-023,Internal Sync,2026-03-30,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0391,OPP-0323,SE-029,Discovery Call,2026-07-05,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0392,OPP-0297,SE-040,RFP Work,2026-06-20,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0393,OPP-0019,SE-033,Internal Sync,2026-05-02,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0394,OPP-0263,SE-039,RFP Work,2026-03-20,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0395,OPP-0119,SE-005,Internal Sync,2026-06-05,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0396,OPP-0217,SE-038,Internal Sync,2026-04-29,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0397,OPP-0138,SE-028,POC Check-in,2026-05-25,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0398,OPP-0254,SE-041,RFP Work,2026-03-22,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0399,OPP-0224,SE-003,POC Check-in,2026-05-19,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0400,OPP-0099,SE-032,Technical Demo,2026-05-02,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0401,OPP-0119,SE-034,POC Check-in,2026-05-04,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0402,OPP-0309,SE-031,Technical Demo,2026-05-15,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0403,OPP-0200,SE-028,Technical Demo,2026-05-15,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0404,OPP-0083,SE-041,POC Check-in,2026-07-07,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0405,OPP-0045,SE-032,Technical Demo,2026-06-15,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0406,OPP-0103,SE-012,Technical Demo,2026-04-30,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0407,OPP-0052,SE-028,Internal Sync,2026-06-06,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0408,OPP-0121,SE-015,RFP Work,2026-07-13,Drafted responses covering ModelServe security and compliance questions.
+ACT-0409,OPP-0010,SE-024,Internal Sync,2026-06-24,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0410,OPP-0347,SE-012,POC Check-in,2026-03-18,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0411,OPP-0033,SE-023,Technical Demo,2026-04-17,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0412,OPP-0317,SE-016,RFP Work,2026-05-11,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0413,OPP-0250,SE-018,Discovery Call,2026-06-12,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0414,OPP-0024,SE-037,POC Check-in,2026-06-13,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0415,OPP-0264,SE-040,POC Check-in,2026-03-17,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0416,OPP-0225,SE-031,Discovery Call,2026-05-20,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0417,OPP-0313,SE-041,Discovery Call,2026-04-27,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0418,OPP-0260,SE-008,Discovery Call,2026-03-21,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0419,OPP-0106,SE-025,Technical Demo,2026-03-27,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0420,OPP-0227,SE-034,Technical Demo,2026-04-23,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0421,OPP-0079,SE-025,RFP Work,2026-05-31,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0422,OPP-0063,SE-014,POC Check-in,2026-05-11,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0423,OPP-0004,SE-017,RFP Work,2026-05-13,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0424,OPP-0147,SE-034,RFP Work,2026-06-09,Drafted responses covering ModelServe security and compliance questions.
+ACT-0425,OPP-0137,SE-025,Technical Demo,2026-06-04,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0426,OPP-0323,SE-017,RFP Work,2026-03-21,Drafted responses covering ModelServe security and compliance questions.
+ACT-0427,OPP-0117,SE-010,Technical Demo,2026-07-09,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0428,OPP-0210,SE-031,RFP Work,2026-05-14,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0429,OPP-0016,SE-030,Internal Sync,2026-05-04,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0430,OPP-0265,SE-006,Technical Demo,2026-05-26,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0431,OPP-0162,SE-027,Discovery Call,2026-06-23,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0432,OPP-0032,SE-027,Technical Demo,2026-07-08,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0433,OPP-0295,SE-005,Discovery Call,2026-06-16,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0434,OPP-0215,SE-027,Internal Sync,2026-06-14,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0435,OPP-0161,SE-024,Internal Sync,2026-03-21,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0436,OPP-0271,SE-041,Discovery Call,2026-05-31,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0437,OPP-0229,SE-015,Technical Demo,2026-04-11,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0438,OPP-0177,SE-027,Internal Sync,2026-05-10,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0439,OPP-0044,SE-004,Technical Demo,2026-03-30,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0440,OPP-0200,SE-010,Internal Sync,2026-05-20,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0441,OPP-0110,SE-007,Internal Sync,2026-05-30,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0442,OPP-0267,SE-023,Internal Sync,2026-04-19,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0443,OPP-0015,SE-036,Technical Demo,2026-04-05,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0444,OPP-0124,SE-021,Internal Sync,2026-05-22,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0445,OPP-0031,SE-025,RFP Work,2026-04-14,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0446,OPP-0064,SE-005,POC Check-in,2026-06-12,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0447,OPP-0153,SE-038,Discovery Call,2026-04-20,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0448,OPP-0174,SE-017,Discovery Call,2026-06-02,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0449,OPP-0180,SE-021,Internal Sync,2026-06-26,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0450,OPP-0194,SE-035,POC Check-in,2026-04-01,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0451,OPP-0168,SE-035,Technical Demo,2026-04-14,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0452,OPP-0185,SE-031,Internal Sync,2026-05-21,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0453,OPP-0218,SE-028,Discovery Call,2026-05-28,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0454,OPP-0032,SE-029,Discovery Call,2026-04-23,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0455,OPP-0110,SE-030,Technical Demo,2026-05-05,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0456,OPP-0347,SE-035,Discovery Call,2026-04-10,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0457,OPP-0136,SE-039,RFP Work,2026-06-20,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0458,OPP-0226,SE-033,RFP Work,2026-06-28,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0459,OPP-0074,SE-034,RFP Work,2026-06-16,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0460,OPP-0235,SE-010,Technical Demo,2026-06-07,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0461,OPP-0109,SE-031,Internal Sync,2026-04-22,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0462,OPP-0081,SE-037,RFP Work,2026-04-02,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0463,OPP-0309,SE-028,POC Check-in,2026-04-21,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0464,OPP-0190,SE-038,Discovery Call,2026-06-24,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0465,OPP-0268,SE-011,POC Check-in,2026-05-13,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0466,OPP-0157,SE-025,Discovery Call,2026-04-19,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0467,OPP-0249,SE-003,POC Check-in,2026-04-02,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0468,OPP-0302,SE-028,Technical Demo,2026-05-26,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0469,OPP-0146,SE-015,Discovery Call,2026-04-19,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0470,OPP-0002,SE-009,Technical Demo,2026-03-31,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0471,OPP-0035,SE-004,Internal Sync,2026-06-25,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0472,OPP-0294,SE-021,RFP Work,2026-07-07,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0473,OPP-0173,SE-026,Internal Sync,2026-05-05,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0474,OPP-0071,SE-034,RFP Work,2026-04-24,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0475,OPP-0342,SE-030,RFP Work,2026-05-09,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0476,OPP-0046,SE-041,Technical Demo,2026-04-25,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0477,OPP-0199,SE-016,Internal Sync,2026-05-04,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0478,OPP-0277,SE-004,RFP Work,2026-05-14,Drafted responses covering ModelServe security and compliance questions.
+ACT-0479,OPP-0331,SE-007,RFP Work,2026-03-16,Drafted responses covering ModelServe security and compliance questions.
+ACT-0480,OPP-0293,SE-042,Technical Demo,2026-06-07,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0481,OPP-0330,SE-037,POC Check-in,2026-04-08,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0482,OPP-0317,SE-036,Discovery Call,2026-06-27,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0483,OPP-0292,SE-035,Internal Sync,2026-03-29,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0484,OPP-0258,SE-003,Technical Demo,2026-04-19,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0485,OPP-0010,SE-019,Discovery Call,2026-06-10,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0486,OPP-0297,SE-030,Technical Demo,2026-04-13,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0487,OPP-0206,SE-039,Discovery Call,2026-05-10,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0488,OPP-0012,SE-023,Discovery Call,2026-07-03,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0489,OPP-0213,SE-003,RFP Work,2026-04-29,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0490,OPP-0196,SE-018,Internal Sync,2026-04-14,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0491,OPP-0051,SE-036,Discovery Call,2026-03-25,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0492,OPP-0074,SE-013,Technical Demo,2026-03-28,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0493,OPP-0079,SE-021,POC Check-in,2026-05-31,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0494,OPP-0031,SE-041,RFP Work,2026-03-27,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0495,OPP-0014,SE-005,POC Check-in,2026-04-21,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0496,OPP-0051,SE-022,POC Check-in,2026-05-11,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0497,OPP-0166,SE-018,Technical Demo,2026-06-17,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0498,OPP-0027,SE-014,RFP Work,2026-07-09,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0499,OPP-0253,SE-034,Technical Demo,2026-06-30,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0500,OPP-0059,SE-019,Internal Sync,2026-06-14,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0501,OPP-0238,SE-037,Discovery Call,2026-05-18,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0502,OPP-0248,SE-003,RFP Work,2026-06-27,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0503,OPP-0010,SE-019,RFP Work,2026-05-10,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0504,OPP-0127,SE-037,Internal Sync,2026-03-19,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0505,OPP-0291,SE-028,Technical Demo,2026-04-15,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0506,OPP-0326,SE-034,RFP Work,2026-07-06,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0507,OPP-0192,SE-036,Technical Demo,2026-05-16,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0508,OPP-0276,SE-029,Technical Demo,2026-05-26,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0509,OPP-0022,SE-002,Internal Sync,2026-06-11,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0510,OPP-0335,SE-012,RFP Work,2026-06-27,Drafted responses covering ModelServe security and compliance questions.
+ACT-0511,OPP-0247,SE-019,Discovery Call,2026-06-14,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0512,OPP-0349,SE-026,Internal Sync,2026-04-22,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0513,OPP-0300,SE-034,POC Check-in,2026-07-06,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0514,OPP-0083,SE-036,POC Check-in,2026-05-23,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0515,OPP-0154,SE-007,Internal Sync,2026-05-23,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0516,OPP-0072,SE-037,RFP Work,2026-04-07,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0517,OPP-0108,SE-041,POC Check-in,2026-06-29,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0518,OPP-0350,SE-023,Internal Sync,2026-04-21,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0519,OPP-0140,SE-017,POC Check-in,2026-06-13,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0520,OPP-0108,SE-031,POC Check-in,2026-04-18,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0521,OPP-0009,SE-010,Internal Sync,2026-06-28,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0522,OPP-0003,SE-002,Discovery Call,2026-05-06,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0523,OPP-0285,SE-033,Technical Demo,2026-03-25,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0524,OPP-0333,SE-006,RFP Work,2026-07-13,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0525,OPP-0344,SE-030,Internal Sync,2026-04-03,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0526,OPP-0193,SE-040,Discovery Call,2026-06-26,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0527,OPP-0091,SE-002,POC Check-in,2026-04-13,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0528,OPP-0190,SE-014,Discovery Call,2026-05-07,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0529,OPP-0114,SE-003,RFP Work,2026-05-24,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0530,OPP-0099,SE-007,POC Check-in,2026-05-01,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0531,OPP-0114,SE-016,Internal Sync,2026-06-15,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0532,OPP-0019,SE-019,RFP Work,2026-03-30,Drafted responses covering ModelServe security and compliance questions.
+ACT-0533,OPP-0004,SE-014,RFP Work,2026-03-21,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0534,OPP-0143,SE-038,RFP Work,2026-06-24,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0535,OPP-0088,SE-037,Internal Sync,2026-06-20,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0536,OPP-0034,SE-039,Technical Demo,2026-05-08,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0537,OPP-0066,SE-018,Technical Demo,2026-05-24,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0538,OPP-0268,SE-019,Internal Sync,2026-04-05,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0539,OPP-0348,SE-036,Technical Demo,2026-03-31,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0540,OPP-0349,SE-037,Internal Sync,2026-07-07,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0541,OPP-0219,SE-005,RFP Work,2026-07-06,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0542,OPP-0209,SE-019,POC Check-in,2026-04-25,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0543,OPP-0254,SE-025,Discovery Call,2026-04-29,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0544,OPP-0115,SE-005,Internal Sync,2026-05-24,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0545,OPP-0273,SE-030,POC Check-in,2026-07-09,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0546,OPP-0201,SE-014,POC Check-in,2026-04-15,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0547,OPP-0293,SE-003,POC Check-in,2026-06-15,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0548,OPP-0039,SE-017,Technical Demo,2026-04-29,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0549,OPP-0169,SE-021,Technical Demo,2026-06-05,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0550,OPP-0015,SE-032,Discovery Call,2026-07-03,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0551,OPP-0304,SE-042,RFP Work,2026-06-08,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0552,OPP-0127,SE-008,POC Check-in,2026-05-18,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0553,OPP-0175,SE-005,RFP Work,2026-04-19,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0554,OPP-0038,SE-040,POC Check-in,2026-03-19,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0555,OPP-0049,SE-042,Internal Sync,2026-05-03,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0556,OPP-0044,SE-005,RFP Work,2026-05-08,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0557,OPP-0161,SE-006,Discovery Call,2026-04-23,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0558,OPP-0227,SE-005,Technical Demo,2026-04-21,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0559,OPP-0034,SE-008,POC Check-in,2026-03-18,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0560,OPP-0151,SE-026,Discovery Call,2026-05-23,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0561,OPP-0317,SE-028,RFP Work,2026-06-23,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0562,OPP-0233,SE-026,Technical Demo,2026-05-15,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0563,OPP-0318,SE-041,RFP Work,2026-05-29,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0564,OPP-0334,SE-003,Discovery Call,2026-05-07,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0565,OPP-0301,SE-014,RFP Work,2026-04-09,Drafted responses covering ModelServe security and compliance questions.
+ACT-0566,OPP-0007,SE-040,Discovery Call,2026-06-03,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0567,OPP-0294,SE-010,Discovery Call,2026-06-25,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0568,OPP-0182,SE-028,Internal Sync,2026-06-04,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0569,OPP-0096,SE-017,RFP Work,2026-04-29,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0570,OPP-0031,SE-010,Technical Demo,2026-06-25,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0571,OPP-0263,SE-024,POC Check-in,2026-06-26,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0572,OPP-0076,SE-032,POC Check-in,2026-03-29,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0573,OPP-0150,SE-025,POC Check-in,2026-04-24,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0574,OPP-0030,SE-017,Discovery Call,2026-04-24,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0575,OPP-0217,SE-024,Internal Sync,2026-04-01,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0576,OPP-0328,SE-014,Technical Demo,2026-05-29,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0577,OPP-0097,SE-032,Discovery Call,2026-06-19,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0578,OPP-0297,SE-038,RFP Work,2026-05-09,Drafted responses covering ModelServe security and compliance questions.
+ACT-0579,OPP-0215,SE-023,POC Check-in,2026-05-21,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0580,OPP-0233,SE-004,Technical Demo,2026-04-21,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0581,OPP-0002,SE-042,RFP Work,2026-05-09,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0582,OPP-0239,SE-041,Technical Demo,2026-04-07,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0583,OPP-0247,SE-023,Technical Demo,2026-06-28,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0584,OPP-0205,SE-013,RFP Work,2026-06-20,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0585,OPP-0006,SE-006,Discovery Call,2026-04-08,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0586,OPP-0285,SE-009,POC Check-in,2026-05-10,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0587,OPP-0226,SE-014,Technical Demo,2026-03-24,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0588,OPP-0023,SE-003,Internal Sync,2026-07-13,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0589,OPP-0146,SE-013,Technical Demo,2026-05-26,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0590,OPP-0090,SE-023,Technical Demo,2026-06-07,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0591,OPP-0092,SE-014,Internal Sync,2026-04-20,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0592,OPP-0135,SE-008,Discovery Call,2026-05-06,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0593,OPP-0195,SE-009,Discovery Call,2026-06-02,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0594,OPP-0157,SE-031,POC Check-in,2026-06-09,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0595,OPP-0191,SE-012,Technical Demo,2026-05-16,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0596,OPP-0034,SE-009,Internal Sync,2026-05-18,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0597,OPP-0098,SE-014,Technical Demo,2026-07-11,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0598,OPP-0192,SE-022,Internal Sync,2026-04-26,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0599,OPP-0326,SE-017,Internal Sync,2026-03-29,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0600,OPP-0275,SE-020,Discovery Call,2026-06-23,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0601,OPP-0127,SE-005,Technical Demo,2026-04-29,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0602,OPP-0261,SE-039,POC Check-in,2026-07-10,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0603,OPP-0042,SE-032,RFP Work,2026-05-09,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0604,OPP-0086,SE-034,Internal Sync,2026-06-07,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0605,OPP-0256,SE-035,RFP Work,2026-04-24,Drafted responses covering ModelServe security and compliance questions.
+ACT-0606,OPP-0165,SE-025,RFP Work,2026-05-29,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0607,OPP-0254,SE-032,Internal Sync,2026-06-07,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0608,OPP-0327,SE-039,POC Check-in,2026-05-27,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0609,OPP-0113,SE-014,Discovery Call,2026-05-28,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0610,OPP-0203,SE-015,RFP Work,2026-07-02,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0611,OPP-0194,SE-038,POC Check-in,2026-04-24,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0612,OPP-0131,SE-037,Technical Demo,2026-05-18,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0613,OPP-0044,SE-020,Discovery Call,2026-07-13,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0614,OPP-0118,SE-039,RFP Work,2026-06-01,Drafted responses covering ModelServe security and compliance questions.
+ACT-0615,OPP-0263,SE-041,Discovery Call,2026-04-30,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0616,OPP-0231,SE-031,POC Check-in,2026-05-31,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0617,OPP-0189,SE-033,RFP Work,2026-04-18,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0618,OPP-0196,SE-003,POC Check-in,2026-07-05,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0619,OPP-0120,SE-018,Technical Demo,2026-03-26,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0620,OPP-0043,SE-020,Discovery Call,2026-05-21,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0621,OPP-0142,SE-016,Internal Sync,2026-04-12,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0622,OPP-0037,SE-025,Discovery Call,2026-05-03,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0623,OPP-0171,SE-014,Discovery Call,2026-05-25,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0624,OPP-0155,SE-019,POC Check-in,2026-05-19,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0625,OPP-0279,SE-018,Technical Demo,2026-04-10,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0626,OPP-0145,SE-024,Discovery Call,2026-05-05,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0627,OPP-0297,SE-002,RFP Work,2026-06-03,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0628,OPP-0204,SE-016,RFP Work,2026-03-18,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0629,OPP-0243,SE-016,Technical Demo,2026-06-04,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0630,OPP-0237,SE-023,Internal Sync,2026-04-21,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0631,OPP-0097,SE-029,Discovery Call,2026-06-05,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0632,OPP-0225,SE-030,RFP Work,2026-06-06,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0633,OPP-0192,SE-010,Internal Sync,2026-06-07,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0634,OPP-0157,SE-002,Internal Sync,2026-05-04,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0635,OPP-0174,SE-016,RFP Work,2026-04-27,Drafted responses covering ModelServe security and compliance questions.
+ACT-0636,OPP-0207,SE-036,RFP Work,2026-03-27,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0637,OPP-0301,SE-003,POC Check-in,2026-04-19,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0638,OPP-0072,SE-011,Internal Sync,2026-04-07,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0639,OPP-0196,SE-015,POC Check-in,2026-06-21,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0640,OPP-0274,SE-026,RFP Work,2026-04-17,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0641,OPP-0056,SE-023,Technical Demo,2026-07-02,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0642,OPP-0328,SE-021,Internal Sync,2026-05-02,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0643,OPP-0054,SE-037,Discovery Call,2026-06-07,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0644,OPP-0309,SE-033,Technical Demo,2026-03-23,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0645,OPP-0102,SE-006,Discovery Call,2026-07-10,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0646,OPP-0106,SE-016,RFP Work,2026-04-30,Drafted responses covering ModelServe security and compliance questions.
+ACT-0647,OPP-0233,SE-005,POC Check-in,2026-06-10,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0648,OPP-0088,SE-022,POC Check-in,2026-04-18,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0649,OPP-0081,SE-009,RFP Work,2026-07-08,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0650,OPP-0245,SE-006,Technical Demo,2026-06-23,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0651,OPP-0067,SE-015,RFP Work,2026-04-08,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0652,OPP-0341,SE-032,POC Check-in,2026-05-03,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0653,OPP-0301,SE-014,Technical Demo,2026-07-03,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0654,OPP-0142,SE-014,Internal Sync,2026-04-09,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0655,OPP-0229,SE-006,Discovery Call,2026-05-11,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0656,OPP-0270,SE-023,RFP Work,2026-04-28,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0657,OPP-0236,SE-031,Internal Sync,2026-07-13,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0658,OPP-0047,SE-020,Internal Sync,2026-04-15,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0659,OPP-0153,SE-027,RFP Work,2026-06-01,Drafted responses covering ModelServe security and compliance questions.
+ACT-0660,OPP-0213,SE-017,Internal Sync,2026-06-02,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0661,OPP-0235,SE-026,Technical Demo,2026-06-28,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0662,OPP-0202,SE-004,Technical Demo,2026-05-04,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0663,OPP-0141,SE-042,Technical Demo,2026-05-03,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0664,OPP-0342,SE-006,Internal Sync,2026-07-03,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0665,OPP-0211,SE-037,Technical Demo,2026-04-28,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0666,OPP-0040,SE-008,Discovery Call,2026-07-07,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0667,OPP-0210,SE-030,Internal Sync,2026-06-06,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0668,OPP-0107,SE-034,Technical Demo,2026-05-26,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0669,OPP-0014,SE-006,Discovery Call,2026-05-30,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0670,OPP-0176,SE-027,RFP Work,2026-04-07,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0671,OPP-0020,SE-002,Technical Demo,2026-06-19,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0672,OPP-0070,SE-022,POC Check-in,2026-06-25,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0673,OPP-0237,SE-006,RFP Work,2026-05-06,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0674,OPP-0225,SE-010,Discovery Call,2026-06-30,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0675,OPP-0083,SE-012,RFP Work,2026-04-06,Drafted responses covering ModelServe security and compliance questions.
+ACT-0676,OPP-0091,SE-020,Discovery Call,2026-06-25,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0677,OPP-0087,SE-006,Discovery Call,2026-04-29,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0678,OPP-0079,SE-030,Discovery Call,2026-06-12,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0679,OPP-0111,SE-004,POC Check-in,2026-05-26,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0680,OPP-0227,SE-005,Internal Sync,2026-04-21,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0681,OPP-0200,SE-021,Internal Sync,2026-06-15,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0682,OPP-0307,SE-002,RFP Work,2026-04-22,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0683,OPP-0104,SE-017,Discovery Call,2026-06-30,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0684,OPP-0103,SE-007,POC Check-in,2026-06-17,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0685,OPP-0015,SE-002,Discovery Call,2026-04-16,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0686,OPP-0349,SE-006,POC Check-in,2026-06-13,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0687,OPP-0341,SE-012,Technical Demo,2026-03-31,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0688,OPP-0213,SE-034,Technical Demo,2026-05-27,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0689,OPP-0166,SE-037,Discovery Call,2026-04-16,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0690,OPP-0278,SE-027,Technical Demo,2026-04-15,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0691,OPP-0119,SE-015,RFP Work,2026-04-05,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0692,OPP-0166,SE-013,Discovery Call,2026-04-17,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0693,OPP-0335,SE-022,Discovery Call,2026-07-06,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0694,OPP-0109,SE-031,Discovery Call,2026-03-26,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0695,OPP-0337,SE-019,Technical Demo,2026-06-15,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0696,OPP-0023,SE-006,Internal Sync,2026-03-18,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0697,OPP-0155,SE-040,Technical Demo,2026-04-03,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0698,OPP-0275,SE-038,RFP Work,2026-04-13,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0699,OPP-0049,SE-040,Technical Demo,2026-05-01,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0700,OPP-0348,SE-010,POC Check-in,2026-03-27,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0701,OPP-0326,SE-022,POC Check-in,2026-06-29,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0702,OPP-0172,SE-003,RFP Work,2026-05-19,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0703,OPP-0196,SE-034,Internal Sync,2026-05-07,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0704,OPP-0120,SE-003,Technical Demo,2026-06-18,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0705,OPP-0159,SE-017,Internal Sync,2026-06-24,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0706,OPP-0318,SE-007,RFP Work,2026-04-18,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0707,OPP-0192,SE-033,Discovery Call,2026-05-20,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0708,OPP-0078,SE-026,POC Check-in,2026-03-25,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0709,OPP-0122,SE-040,Technical Demo,2026-04-21,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0710,OPP-0069,SE-019,RFP Work,2026-06-26,Drafted responses covering ModelServe security and compliance questions.
+ACT-0711,OPP-0267,SE-028,POC Check-in,2026-06-06,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0712,OPP-0118,SE-023,POC Check-in,2026-06-28,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0713,OPP-0106,SE-036,POC Check-in,2026-05-04,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0714,OPP-0114,SE-040,Discovery Call,2026-07-08,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0715,OPP-0094,SE-030,RFP Work,2026-04-16,Drafted responses covering ModelServe security and compliance questions.
+ACT-0716,OPP-0252,SE-006,Discovery Call,2026-06-07,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0717,OPP-0325,SE-011,Technical Demo,2026-05-30,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0718,OPP-0047,SE-013,Technical Demo,2026-06-27,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0719,OPP-0121,SE-034,Internal Sync,2026-05-22,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0720,OPP-0240,SE-021,Discovery Call,2026-06-17,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0721,OPP-0126,SE-029,Technical Demo,2026-04-06,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0722,OPP-0156,SE-020,Technical Demo,2026-05-21,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0723,OPP-0326,SE-014,Internal Sync,2026-07-05,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0724,OPP-0041,SE-025,POC Check-in,2026-06-05,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0725,OPP-0086,SE-032,RFP Work,2026-03-23,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0726,OPP-0259,SE-041,RFP Work,2026-07-02,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0727,OPP-0247,SE-003,RFP Work,2026-04-08,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0728,OPP-0043,SE-021,RFP Work,2026-06-24,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0729,OPP-0284,SE-013,Internal Sync,2026-04-16,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0730,OPP-0238,SE-021,POC Check-in,2026-04-17,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0731,OPP-0193,SE-037,RFP Work,2026-07-05,Drafted responses covering ModelServe security and compliance questions.
+ACT-0732,OPP-0037,SE-023,Internal Sync,2026-04-27,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0733,OPP-0101,SE-011,Technical Demo,2026-04-25,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0734,OPP-0007,SE-034,Technical Demo,2026-05-01,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0735,OPP-0208,SE-028,POC Check-in,2026-05-28,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0736,OPP-0197,SE-033,RFP Work,2026-06-13,Drafted responses covering ModelServe security and compliance questions.
+ACT-0737,OPP-0210,SE-004,POC Check-in,2026-07-15,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0738,OPP-0290,SE-012,Discovery Call,2026-06-15,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0739,OPP-0131,SE-024,Technical Demo,2026-04-22,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0740,OPP-0326,SE-025,Internal Sync,2026-05-25,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0741,OPP-0218,SE-017,Discovery Call,2026-06-11,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0742,OPP-0018,SE-025,Technical Demo,2026-06-09,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0743,OPP-0134,SE-040,Discovery Call,2026-06-21,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0744,OPP-0131,SE-017,RFP Work,2026-03-17,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0745,OPP-0007,SE-009,Internal Sync,2026-04-19,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0746,OPP-0204,SE-039,Discovery Call,2026-04-26,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0747,OPP-0217,SE-012,Discovery Call,2026-05-01,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0748,OPP-0155,SE-034,RFP Work,2026-06-14,Drafted responses covering ModelServe security and compliance questions.
+ACT-0749,OPP-0301,SE-021,Internal Sync,2026-04-30,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0750,OPP-0056,SE-042,RFP Work,2026-04-17,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0751,OPP-0074,SE-019,Internal Sync,2026-04-11,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0752,OPP-0158,SE-002,Technical Demo,2026-06-25,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0753,OPP-0001,SE-008,Technical Demo,2026-05-01,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0754,OPP-0269,SE-028,Discovery Call,2026-03-28,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0755,OPP-0088,SE-013,POC Check-in,2026-05-02,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0756,OPP-0069,SE-014,POC Check-in,2026-03-20,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0757,OPP-0258,SE-009,RFP Work,2026-05-03,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0758,OPP-0096,SE-014,RFP Work,2026-04-26,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0759,OPP-0099,SE-018,Discovery Call,2026-06-09,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0760,OPP-0321,SE-041,RFP Work,2026-07-01,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0761,OPP-0041,SE-020,Discovery Call,2026-06-11,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0762,OPP-0064,SE-019,Discovery Call,2026-07-12,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0763,OPP-0016,SE-039,Discovery Call,2026-07-05,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0764,OPP-0249,SE-008,Technical Demo,2026-05-26,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0765,OPP-0137,SE-002,Discovery Call,2026-06-29,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0766,OPP-0050,SE-015,Internal Sync,2026-06-17,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0767,OPP-0193,SE-040,Internal Sync,2026-04-20,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0768,OPP-0249,SE-032,Internal Sync,2026-07-13,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0769,OPP-0173,SE-025,POC Check-in,2026-05-03,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0770,OPP-0123,SE-025,POC Check-in,2026-05-13,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0771,OPP-0313,SE-005,RFP Work,2026-06-17,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0772,OPP-0052,SE-002,POC Check-in,2026-07-09,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0773,OPP-0072,SE-003,RFP Work,2026-04-01,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0774,OPP-0272,SE-019,Internal Sync,2026-06-02,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0775,OPP-0232,SE-041,Technical Demo,2026-04-23,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0776,OPP-0339,SE-014,RFP Work,2026-05-25,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0777,OPP-0009,SE-042,Discovery Call,2026-06-18,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0778,OPP-0167,SE-030,POC Check-in,2026-05-22,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0779,OPP-0205,SE-041,Technical Demo,2026-06-28,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0780,OPP-0220,SE-032,Discovery Call,2026-05-07,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0781,OPP-0151,SE-040,Discovery Call,2026-05-04,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0782,OPP-0267,SE-038,Technical Demo,2026-03-25,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0783,OPP-0066,SE-033,Internal Sync,2026-03-16,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0784,OPP-0345,SE-037,Discovery Call,2026-06-18,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0785,OPP-0229,SE-009,RFP Work,2026-04-15,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0786,OPP-0125,SE-015,RFP Work,2026-07-12,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0787,OPP-0055,SE-029,Technical Demo,2026-04-04,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0788,OPP-0168,SE-026,Discovery Call,2026-03-21,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0789,OPP-0132,SE-032,POC Check-in,2026-05-09,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0790,OPP-0274,SE-042,Discovery Call,2026-03-26,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0791,OPP-0171,SE-016,RFP Work,2026-05-31,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0792,OPP-0330,SE-023,Internal Sync,2026-06-20,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0793,OPP-0335,SE-037,RFP Work,2026-06-02,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0794,OPP-0115,SE-018,RFP Work,2026-05-10,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0795,OPP-0045,SE-009,Discovery Call,2026-05-13,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0796,OPP-0304,SE-014,Discovery Call,2026-04-21,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0797,OPP-0066,SE-022,Discovery Call,2026-03-27,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0798,OPP-0160,SE-005,RFP Work,2026-03-23,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0799,OPP-0199,SE-029,Internal Sync,2026-04-21,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0800,OPP-0348,SE-010,POC Check-in,2026-04-22,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0801,OPP-0055,SE-027,Internal Sync,2026-07-09,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0802,OPP-0162,SE-011,Discovery Call,2026-06-08,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0803,OPP-0256,SE-031,POC Check-in,2026-07-02,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0804,OPP-0075,SE-004,Technical Demo,2026-05-04,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0805,OPP-0159,SE-034,Internal Sync,2026-03-20,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0806,OPP-0294,SE-032,Discovery Call,2026-04-21,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0807,OPP-0150,SE-026,Technical Demo,2026-06-03,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0808,OPP-0079,SE-015,Discovery Call,2026-07-15,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0809,OPP-0092,SE-033,Technical Demo,2026-04-29,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0810,OPP-0338,SE-012,RFP Work,2026-06-20,Drafted responses covering ModelServe security and compliance questions.
+ACT-0811,OPP-0173,SE-029,Discovery Call,2026-03-22,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0812,OPP-0201,SE-027,RFP Work,2026-06-07,Drafted responses covering ModelServe security and compliance questions.
+ACT-0813,OPP-0145,SE-014,Discovery Call,2026-06-09,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0814,OPP-0050,SE-010,Internal Sync,2026-06-12,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0815,OPP-0156,SE-031,POC Check-in,2026-05-21,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0816,OPP-0227,SE-032,Technical Demo,2026-05-31,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0817,OPP-0108,SE-015,POC Check-in,2026-07-04,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0818,OPP-0186,SE-038,Technical Demo,2026-05-07,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0819,OPP-0193,SE-029,Discovery Call,2026-07-13,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0820,OPP-0050,SE-024,Technical Demo,2026-05-14,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0821,OPP-0027,SE-009,RFP Work,2026-04-14,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0822,OPP-0304,SE-029,Internal Sync,2026-04-22,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0823,OPP-0126,SE-004,Technical Demo,2026-05-23,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0824,OPP-0204,SE-033,Discovery Call,2026-06-28,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0825,OPP-0335,SE-026,POC Check-in,2026-04-22,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0826,OPP-0333,SE-026,Discovery Call,2026-04-25,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0827,OPP-0189,SE-002,POC Check-in,2026-07-09,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0828,OPP-0043,SE-009,Discovery Call,2026-06-22,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0829,OPP-0012,SE-039,RFP Work,2026-04-12,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0830,OPP-0141,SE-008,Internal Sync,2026-06-23,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0831,OPP-0197,SE-032,Internal Sync,2026-04-29,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0832,OPP-0293,SE-010,RFP Work,2026-05-28,Drafted responses covering ModelServe security and compliance questions.
+ACT-0833,OPP-0033,SE-036,Discovery Call,2026-04-10,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0834,OPP-0011,SE-027,Technical Demo,2026-04-15,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0835,OPP-0033,SE-035,Internal Sync,2026-04-17,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0836,OPP-0107,SE-009,Internal Sync,2026-03-18,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0837,OPP-0003,SE-037,Technical Demo,2026-07-07,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0838,OPP-0063,SE-004,RFP Work,2026-05-29,Drafted responses covering ModelServe security and compliance questions.
+ACT-0839,OPP-0335,SE-012,Technical Demo,2026-05-28,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0840,OPP-0018,SE-007,Discovery Call,2026-04-06,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0841,OPP-0187,SE-036,Discovery Call,2026-05-13,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0842,OPP-0337,SE-002,Technical Demo,2026-06-10,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0843,OPP-0024,SE-035,Technical Demo,2026-07-05,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0844,OPP-0072,SE-038,POC Check-in,2026-04-11,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0845,OPP-0268,SE-024,RFP Work,2026-06-14,Drafted responses covering ModelServe security and compliance questions.
+ACT-0846,OPP-0051,SE-004,Internal Sync,2026-06-12,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0847,OPP-0097,SE-011,Technical Demo,2026-07-04,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0848,OPP-0069,SE-040,POC Check-in,2026-07-05,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0849,OPP-0303,SE-024,Internal Sync,2026-05-18,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0850,OPP-0319,SE-029,POC Check-in,2026-04-11,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0851,OPP-0134,SE-026,Discovery Call,2026-04-27,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0852,OPP-0234,SE-007,Technical Demo,2026-06-02,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0853,OPP-0074,SE-036,POC Check-in,2026-07-14,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0854,OPP-0323,SE-019,Technical Demo,2026-04-12,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0855,OPP-0289,SE-034,Technical Demo,2026-04-29,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0856,OPP-0215,SE-011,Internal Sync,2026-05-28,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0857,OPP-0195,SE-003,POC Check-in,2026-03-24,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0858,OPP-0040,SE-019,Internal Sync,2026-03-24,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0859,OPP-0281,SE-028,Discovery Call,2026-07-07,Discussed current Lakehouse Core stack and pain points around scaling data pipelines.
+ACT-0860,OPP-0328,SE-007,Discovery Call,2026-04-14,Discussed current ModelServe stack and pain points around scaling data pipelines.
+ACT-0861,OPP-0140,SE-011,POC Check-in,2026-06-14,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0862,OPP-0006,SE-008,Technical Demo,2026-04-14,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0863,OPP-0194,SE-008,RFP Work,2026-05-27,Drafted responses covering PipelineOps security and compliance questions.
+ACT-0864,OPP-0270,SE-021,Discovery Call,2026-06-15,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0865,OPP-0049,SE-035,Internal Sync,2026-06-29,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0866,OPP-0283,SE-019,POC Check-in,2026-04-03,Reviewed POC progress against success criteria; ModelServe environment stable.
+ACT-0867,OPP-0025,SE-012,Internal Sync,2026-04-09,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0868,OPP-0093,SE-024,POC Check-in,2026-05-29,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0869,OPP-0245,SE-039,Internal Sync,2026-07-10,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0870,OPP-0005,SE-034,Technical Demo,2026-05-20,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0871,OPP-0074,SE-026,Technical Demo,2026-06-18,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0872,OPP-0028,SE-042,Internal Sync,2026-06-25,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0873,OPP-0348,SE-040,POC Check-in,2026-04-22,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0874,OPP-0094,SE-030,RFP Work,2026-05-01,Drafted responses covering Governance Suite security and compliance questions.
+ACT-0875,OPP-0258,SE-020,POC Check-in,2026-03-26,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0876,OPP-0267,SE-016,POC Check-in,2026-04-14,Reviewed POC progress against success criteria; Governance Suite environment stable.
+ACT-0877,OPP-0157,SE-028,POC Check-in,2026-06-16,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0878,OPP-0325,SE-007,POC Check-in,2026-03-28,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0879,OPP-0048,SE-012,Discovery Call,2026-05-03,Discussed current PipelineOps stack and pain points around scaling data pipelines.
+ACT-0880,OPP-0044,SE-020,Internal Sync,2026-04-01,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0881,OPP-0006,SE-029,Internal Sync,2026-05-25,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0882,OPP-0246,SE-033,Internal Sync,2026-04-06,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0883,OPP-0208,SE-002,Internal Sync,2026-05-22,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0884,OPP-0004,SE-029,Internal Sync,2026-06-28,Synced with AE on deal strategy and next steps involving PipelineOps.
+ACT-0885,OPP-0126,SE-035,Internal Sync,2026-04-22,Synced with AE on deal strategy and next steps involving ModelServe.
+ACT-0886,OPP-0311,SE-030,Internal Sync,2026-07-08,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0887,OPP-0090,SE-006,Technical Demo,2026-04-19,Walked through PipelineOps integration and answered questions on governance controls.
+ACT-0888,OPP-0264,SE-024,POC Check-in,2026-05-16,Reviewed POC progress against success criteria; PipelineOps environment stable.
+ACT-0889,OPP-0254,SE-026,Discovery Call,2026-06-18,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0890,OPP-0058,SE-023,Technical Demo,2026-03-28,Walked through ModelServe integration and answered questions on governance controls.
+ACT-0891,OPP-0149,SE-021,Technical Demo,2026-05-04,Walked through Lakehouse Core integration and answered questions on governance controls.
+ACT-0892,OPP-0136,SE-015,RFP Work,2026-06-11,Drafted responses covering ModelServe security and compliance questions.
+ACT-0893,OPP-0112,SE-021,Discovery Call,2026-06-29,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0894,OPP-0238,SE-041,Internal Sync,2026-06-20,Synced with AE on deal strategy and next steps involving Lakehouse Core.
+ACT-0895,OPP-0183,SE-002,RFP Work,2026-03-28,Drafted responses covering Lakehouse Core security and compliance questions.
+ACT-0896,OPP-0169,SE-021,Internal Sync,2026-07-07,Synced with AE on deal strategy and next steps involving Governance Suite.
+ACT-0897,OPP-0003,SE-024,POC Check-in,2026-07-14,Reviewed POC progress against success criteria; Lakehouse Core environment stable.
+ACT-0898,OPP-0182,SE-002,Technical Demo,2026-06-12,Walked through Governance Suite integration and answered questions on governance controls.
+ACT-0899,OPP-0252,SE-014,Discovery Call,2026-05-28,Discussed current Governance Suite stack and pain points around scaling data pipelines.
+ACT-0900,OPP-0211,SE-009,Discovery Call,2026-03-21,Discussed current PipelineOps stack and pain points around scaling data pipelines.

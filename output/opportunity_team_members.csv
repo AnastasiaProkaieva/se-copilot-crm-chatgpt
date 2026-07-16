@@ -1,0 +1,401 @@
+team_member_id,opportunity_id,member_type,member_name,role
+OTM-0001,OPP-0001,AE,April Owens,Deal Owner
+OTM-0002,OPP-0002,SE,SE-004,Supporting SE
+OTM-0003,OPP-0003,AE,Amy Odonnell,Deal Owner
+OTM-0004,OPP-0004,SE,SE-028,Primary SE
+OTM-0005,OPP-0005,AE,Melanie Jackson,Deal Owner
+OTM-0006,OPP-0006,SE,SE-032,Primary SE
+OTM-0007,OPP-0007,AE,Mr. Brandon Williams,Deal Owner
+OTM-0008,OPP-0008,SE,SE-030,Primary SE
+OTM-0009,OPP-0009,AE,Susan Castillo,Deal Owner
+OTM-0010,OPP-0010,SE,SE-039,Supporting SE
+OTM-0011,OPP-0011,AE,John Collins,Deal Owner
+OTM-0012,OPP-0012,SE,SE-009,Supporting SE
+OTM-0013,OPP-0013,AE,Cynthia Parker,Deal Owner
+OTM-0014,OPP-0014,SE,SE-010,Supporting SE
+OTM-0015,OPP-0015,AE,David Sampson,Deal Owner
+OTM-0016,OPP-0016,SE,SE-039,Primary SE
+OTM-0017,OPP-0017,AE,Carl Bell,Deal Owner
+OTM-0018,OPP-0018,SE,SE-011,Supporting SE
+OTM-0019,OPP-0019,AE,Nathaniel Fowler,Deal Owner
+OTM-0020,OPP-0020,SE,SE-026,Primary SE
+OTM-0021,OPP-0021,AE,Paul Larsen,Deal Owner
+OTM-0022,OPP-0022,SE,SE-009,Supporting SE
+OTM-0023,OPP-0023,AE,Lydia Adams,Deal Owner
+OTM-0024,OPP-0024,SE,SE-040,Supporting SE
+OTM-0025,OPP-0025,AE,David Rivera,Deal Owner
+OTM-0026,OPP-0026,SE,SE-037,Primary SE
+OTM-0027,OPP-0027,AE,William Wagner,Deal Owner
+OTM-0028,OPP-0028,SE,SE-005,Primary SE
+OTM-0029,OPP-0029,AE,John Lindsey,Deal Owner
+OTM-0030,OPP-0030,SE,SE-018,Primary SE
+OTM-0031,OPP-0031,AE,Joseph Yoder,Deal Owner
+OTM-0032,OPP-0032,SE,SE-011,Supporting SE
+OTM-0033,OPP-0033,AE,Kelly Higgins,Deal Owner
+OTM-0034,OPP-0034,SE,SE-037,Primary SE
+OTM-0035,OPP-0035,AE,Jessica Thompson,Deal Owner
+OTM-0036,OPP-0036,SE,SE-006,Primary SE
+OTM-0037,OPP-0037,AE,Juan Wright,Deal Owner
+OTM-0038,OPP-0038,SE,SE-037,Primary SE
+OTM-0039,OPP-0039,AE,William Hickman,Deal Owner
+OTM-0040,OPP-0040,SE,SE-016,Supporting SE
+OTM-0041,OPP-0041,AE,Denise Massey,Deal Owner
+OTM-0042,OPP-0042,SE,SE-030,Supporting SE
+OTM-0043,OPP-0043,AE,Daniel Ramirez,Deal Owner
+OTM-0044,OPP-0044,SE,SE-034,Primary SE
+OTM-0045,OPP-0045,AE,Joe Olson,Deal Owner
+OTM-0046,OPP-0046,SE,SE-005,Supporting SE
+OTM-0047,OPP-0047,AE,Kelli Rivera,Deal Owner
+OTM-0048,OPP-0048,SE,SE-006,Supporting SE
+OTM-0049,OPP-0049,AE,Sandra Saunders,Deal Owner
+OTM-0050,OPP-0050,SE,SE-017,Supporting SE
+OTM-0051,OPP-0051,AE,Julia Ryan,Deal Owner
+OTM-0052,OPP-0052,SE,SE-036,Primary SE
+OTM-0053,OPP-0053,AE,Travis Hamilton,Deal Owner
+OTM-0054,OPP-0054,SE,SE-033,Primary SE
+OTM-0055,OPP-0055,AE,Sydney Page,Deal Owner
+OTM-0056,OPP-0056,SE,SE-037,Primary SE
+OTM-0057,OPP-0057,AE,Daniel Patton,Deal Owner
+OTM-0058,OPP-0058,SE,SE-026,Supporting SE
+OTM-0059,OPP-0059,AE,Edward Gardner,Deal Owner
+OTM-0060,OPP-0060,SE,SE-026,Supporting SE
+OTM-0061,OPP-0061,AE,Hannah Garcia,Deal Owner
+OTM-0062,OPP-0062,SE,SE-024,Supporting SE
+OTM-0063,OPP-0063,AE,Richard Reynolds,Deal Owner
+OTM-0064,OPP-0064,SE,SE-015,Primary SE
+OTM-0065,OPP-0065,AE,Charles Bryant,Deal Owner
+OTM-0066,OPP-0066,SE,SE-032,Supporting SE
+OTM-0067,OPP-0067,AE,Andre Pope,Deal Owner
+OTM-0068,OPP-0068,SE,SE-010,Supporting SE
+OTM-0069,OPP-0069,AE,Dale Jones,Deal Owner
+OTM-0070,OPP-0070,SE,SE-036,Primary SE
+OTM-0071,OPP-0071,AE,Brendan Miller,Deal Owner
+OTM-0072,OPP-0072,SE,SE-010,Supporting SE
+OTM-0073,OPP-0073,AE,Teresa Harris,Deal Owner
+OTM-0074,OPP-0074,SE,SE-005,Primary SE
+OTM-0075,OPP-0075,AE,Kim Lopez,Deal Owner
+OTM-0076,OPP-0076,SE,SE-022,Primary SE
+OTM-0077,OPP-0077,AE,Tina Freeman,Deal Owner
+OTM-0078,OPP-0078,SE,SE-033,Primary SE
+OTM-0079,OPP-0079,AE,Debra Gonzalez,Deal Owner
+OTM-0080,OPP-0080,SE,SE-007,Supporting SE
+OTM-0081,OPP-0081,AE,Arthur Scott,Deal Owner
+OTM-0082,OPP-0082,SE,SE-014,Primary SE
+OTM-0083,OPP-0083,AE,Robert Scott,Deal Owner
+OTM-0084,OPP-0084,SE,SE-023,Supporting SE
+OTM-0085,OPP-0085,AE,Ronald Merritt,Deal Owner
+OTM-0086,OPP-0086,SE,SE-024,Supporting SE
+OTM-0087,OPP-0087,AE,Melissa Anderson,Deal Owner
+OTM-0088,OPP-0088,SE,SE-018,Supporting SE
+OTM-0089,OPP-0089,AE,Jessica Johnson,Deal Owner
+OTM-0090,OPP-0090,SE,SE-031,Primary SE
+OTM-0091,OPP-0091,AE,Dawn Allison,Deal Owner
+OTM-0092,OPP-0092,SE,SE-019,Primary SE
+OTM-0093,OPP-0093,AE,Lisa Gilmore,Deal Owner
+OTM-0094,OPP-0094,SE,SE-021,Supporting SE
+OTM-0095,OPP-0095,AE,James Meza,Deal Owner
+OTM-0096,OPP-0096,SE,SE-026,Primary SE
+OTM-0097,OPP-0097,AE,Andrea Moore,Deal Owner
+OTM-0098,OPP-0098,SE,SE-030,Primary SE
+OTM-0099,OPP-0099,AE,Michael Abbott,Deal Owner
+OTM-0100,OPP-0100,SE,SE-018,Supporting SE
+OTM-0101,OPP-0101,AE,Johnny Morales,Deal Owner
+OTM-0102,OPP-0102,SE,SE-021,Supporting SE
+OTM-0103,OPP-0103,AE,Kimberly Huynh,Deal Owner
+OTM-0104,OPP-0104,SE,SE-017,Primary SE
+OTM-0105,OPP-0105,AE,Alexandria Bond,Deal Owner
+OTM-0106,OPP-0106,SE,SE-029,Supporting SE
+OTM-0107,OPP-0107,AE,Brenda Thompson,Deal Owner
+OTM-0108,OPP-0108,SE,SE-036,Primary SE
+OTM-0109,OPP-0109,AE,Daniel Trevino,Deal Owner
+OTM-0110,OPP-0110,SE,SE-021,Primary SE
+OTM-0111,OPP-0111,AE,Elizabeth Moon,Deal Owner
+OTM-0112,OPP-0112,SE,SE-032,Supporting SE
+OTM-0113,OPP-0113,AE,Elizabeth Roberts,Deal Owner
+OTM-0114,OPP-0114,SE,SE-040,Primary SE
+OTM-0115,OPP-0115,AE,Phillip Mcmillan,Deal Owner
+OTM-0116,OPP-0116,SE,SE-031,Primary SE
+OTM-0117,OPP-0117,AE,Margaret Taylor,Deal Owner
+OTM-0118,OPP-0118,SE,SE-030,Primary SE
+OTM-0119,OPP-0119,AE,Stephanie Brown,Deal Owner
+OTM-0120,OPP-0120,SE,SE-008,Supporting SE
+OTM-0121,OPP-0121,AE,Tonya Carter,Deal Owner
+OTM-0122,OPP-0122,SE,SE-037,Primary SE
+OTM-0123,OPP-0123,AE,Alexa Lewis,Deal Owner
+OTM-0124,OPP-0124,SE,SE-014,Supporting SE
+OTM-0125,OPP-0125,AE,Emily Weaver,Deal Owner
+OTM-0126,OPP-0126,SE,SE-006,Primary SE
+OTM-0127,OPP-0127,AE,Anthony Hamilton,Deal Owner
+OTM-0128,OPP-0128,SE,SE-018,Primary SE
+OTM-0129,OPP-0129,AE,Maria Stanley,Deal Owner
+OTM-0130,OPP-0130,SE,SE-018,Primary SE
+OTM-0131,OPP-0131,AE,Steven Blanchard,Deal Owner
+OTM-0132,OPP-0132,SE,SE-019,Primary SE
+OTM-0133,OPP-0133,AE,Lindsey Marshall,Deal Owner
+OTM-0134,OPP-0134,SE,SE-005,Supporting SE
+OTM-0135,OPP-0135,AE,Michele Mills,Deal Owner
+OTM-0136,OPP-0136,SE,SE-021,Supporting SE
+OTM-0137,OPP-0137,AE,Sean Garcia,Deal Owner
+OTM-0138,OPP-0138,SE,SE-014,Primary SE
+OTM-0139,OPP-0139,AE,Beth May,Deal Owner
+OTM-0140,OPP-0140,SE,SE-005,Primary SE
+OTM-0141,OPP-0141,AE,Ana Foster,Deal Owner
+OTM-0142,OPP-0142,SE,SE-020,Supporting SE
+OTM-0143,OPP-0143,AE,Stacy Schmidt,Deal Owner
+OTM-0144,OPP-0144,SE,SE-014,Supporting SE
+OTM-0145,OPP-0145,AE,Rebecca Jordan,Deal Owner
+OTM-0146,OPP-0146,SE,SE-033,Primary SE
+OTM-0147,OPP-0147,AE,Victoria Smith,Deal Owner
+OTM-0148,OPP-0148,SE,SE-018,Primary SE
+OTM-0149,OPP-0149,AE,Kelly Skinner,Deal Owner
+OTM-0150,OPP-0150,SE,SE-008,Primary SE
+OTM-0151,OPP-0151,AE,Vickie Lawrence,Deal Owner
+OTM-0152,OPP-0152,SE,SE-006,Primary SE
+OTM-0153,OPP-0153,AE,Darren Carlson,Deal Owner
+OTM-0154,OPP-0154,SE,SE-017,Primary SE
+OTM-0155,OPP-0155,AE,Barbara Bell,Deal Owner
+OTM-0156,OPP-0156,SE,SE-022,Primary SE
+OTM-0157,OPP-0157,AE,Erin Martin,Deal Owner
+OTM-0158,OPP-0158,SE,SE-020,Supporting SE
+OTM-0159,OPP-0159,AE,Andrew Stevens,Deal Owner
+OTM-0160,OPP-0160,SE,SE-031,Supporting SE
+OTM-0161,OPP-0161,AE,Claudia Carr,Deal Owner
+OTM-0162,OPP-0162,SE,SE-023,Primary SE
+OTM-0163,OPP-0163,AE,Michael Waters,Deal Owner
+OTM-0164,OPP-0164,SE,SE-029,Primary SE
+OTM-0165,OPP-0165,AE,Kevin Boyd,Deal Owner
+OTM-0166,OPP-0166,SE,SE-034,Supporting SE
+OTM-0167,OPP-0167,AE,Morgan Vargas,Deal Owner
+OTM-0168,OPP-0168,SE,SE-030,Supporting SE
+OTM-0169,OPP-0169,AE,Michael Hutchinson,Deal Owner
+OTM-0170,OPP-0170,SE,SE-034,Primary SE
+OTM-0171,OPP-0171,AE,Brooke Howard,Deal Owner
+OTM-0172,OPP-0172,SE,SE-035,Supporting SE
+OTM-0173,OPP-0173,AE,Oscar Collins,Deal Owner
+OTM-0174,OPP-0174,SE,SE-040,Supporting SE
+OTM-0175,OPP-0175,AE,Christina Murphy,Deal Owner
+OTM-0176,OPP-0176,SE,SE-004,Primary SE
+OTM-0177,OPP-0177,AE,Emily Nelson,Deal Owner
+OTM-0178,OPP-0178,SE,SE-022,Primary SE
+OTM-0179,OPP-0179,AE,David Fernandez,Deal Owner
+OTM-0180,OPP-0180,SE,SE-032,Primary SE
+OTM-0181,OPP-0181,AE,Kenneth Rodriguez,Deal Owner
+OTM-0182,OPP-0182,SE,SE-010,Primary SE
+OTM-0183,OPP-0183,AE,Jerome Hunt,Deal Owner
+OTM-0184,OPP-0184,SE,SE-004,Supporting SE
+OTM-0185,OPP-0185,AE,Clinton Price,Deal Owner
+OTM-0186,OPP-0186,SE,SE-020,Primary SE
+OTM-0187,OPP-0187,AE,Anthony Drake,Deal Owner
+OTM-0188,OPP-0188,SE,SE-014,Primary SE
+OTM-0189,OPP-0189,AE,Nicole Spencer,Deal Owner
+OTM-0190,OPP-0190,SE,SE-032,Supporting SE
+OTM-0191,OPP-0191,AE,Ryan Jones,Deal Owner
+OTM-0192,OPP-0192,SE,SE-010,Supporting SE
+OTM-0193,OPP-0193,AE,Ian Jones,Deal Owner
+OTM-0194,OPP-0194,SE,SE-020,Supporting SE
+OTM-0195,OPP-0195,AE,Julie Lucero,Deal Owner
+OTM-0196,OPP-0196,SE,SE-031,Primary SE
+OTM-0197,OPP-0197,AE,Shannon Barnes,Deal Owner
+OTM-0198,OPP-0198,SE,SE-037,Primary SE
+OTM-0199,OPP-0199,AE,Edward Reed,Deal Owner
+OTM-0200,OPP-0200,SE,SE-036,Primary SE
+OTM-0201,OPP-0201,AE,Shawn White,Deal Owner
+OTM-0202,OPP-0202,SE,SE-018,Supporting SE
+OTM-0203,OPP-0203,AE,Cameron James,Deal Owner
+OTM-0204,OPP-0204,SE,SE-018,Supporting SE
+OTM-0205,OPP-0205,AE,Tina Henry,Deal Owner
+OTM-0206,OPP-0206,SE,SE-039,Supporting SE
+OTM-0207,OPP-0207,AE,Hannah Lin,Deal Owner
+OTM-0208,OPP-0208,SE,SE-025,Primary SE
+OTM-0209,OPP-0209,AE,Hannah Lucas,Deal Owner
+OTM-0210,OPP-0210,SE,SE-005,Supporting SE
+OTM-0211,OPP-0211,AE,Jennifer Cabrera,Deal Owner
+OTM-0212,OPP-0212,SE,SE-029,Primary SE
+OTM-0213,OPP-0213,AE,Rebecca White,Deal Owner
+OTM-0214,OPP-0214,SE,SE-025,Primary SE
+OTM-0215,OPP-0215,AE,Heather Terry,Deal Owner
+OTM-0216,OPP-0216,SE,SE-035,Supporting SE
+OTM-0217,OPP-0217,AE,Katelyn Reynolds,Deal Owner
+OTM-0218,OPP-0218,SE,SE-010,Supporting SE
+OTM-0219,OPP-0219,AE,Kristen Clark,Deal Owner
+OTM-0220,OPP-0220,SE,SE-038,Primary SE
+OTM-0221,OPP-0221,AE,Paula Lopez,Deal Owner
+OTM-0222,OPP-0222,SE,SE-014,Primary SE
+OTM-0223,OPP-0223,AE,Ellen Stewart,Deal Owner
+OTM-0224,OPP-0224,SE,SE-022,Primary SE
+OTM-0225,OPP-0225,AE,Tracey Graham,Deal Owner
+OTM-0226,OPP-0226,SE,SE-011,Primary SE
+OTM-0227,OPP-0227,AE,Mrs. Ann Rodriguez,Deal Owner
+OTM-0228,OPP-0228,SE,SE-039,Primary SE
+OTM-0229,OPP-0229,AE,Sarah Taylor,Deal Owner
+OTM-0230,OPP-0230,SE,SE-037,Primary SE
+OTM-0231,OPP-0231,AE,Jon Daugherty,Deal Owner
+OTM-0232,OPP-0232,SE,SE-016,Primary SE
+OTM-0233,OPP-0233,AE,Rebecca Carter,Deal Owner
+OTM-0234,OPP-0234,SE,SE-010,Primary SE
+OTM-0235,OPP-0235,AE,Barbara Garrett,Deal Owner
+OTM-0236,OPP-0236,SE,SE-039,Supporting SE
+OTM-0237,OPP-0237,AE,Claire Bennett,Deal Owner
+OTM-0238,OPP-0238,SE,SE-012,Supporting SE
+OTM-0239,OPP-0239,AE,Brent Peterson,Deal Owner
+OTM-0240,OPP-0240,SE,SE-030,Supporting SE
+OTM-0241,OPP-0241,AE,William Adams,Deal Owner
+OTM-0242,OPP-0242,SE,SE-029,Supporting SE
+OTM-0243,OPP-0243,AE,Susan Davis,Deal Owner
+OTM-0244,OPP-0244,SE,SE-028,Primary SE
+OTM-0245,OPP-0245,AE,Cory Mendez,Deal Owner
+OTM-0246,OPP-0246,SE,SE-037,Primary SE
+OTM-0247,OPP-0247,AE,David Williams,Deal Owner
+OTM-0248,OPP-0248,SE,SE-005,Primary SE
+OTM-0249,OPP-0249,AE,Mario Davis,Deal Owner
+OTM-0250,OPP-0250,SE,SE-030,Primary SE
+OTM-0251,OPP-0251,AE,Ashley Ware,Deal Owner
+OTM-0252,OPP-0252,SE,SE-006,Primary SE
+OTM-0253,OPP-0253,AE,Teresa Beck,Deal Owner
+OTM-0254,OPP-0254,SE,SE-013,Supporting SE
+OTM-0255,OPP-0255,AE,Kendra Cox,Deal Owner
+OTM-0256,OPP-0256,SE,SE-014,Primary SE
+OTM-0257,OPP-0257,AE,Sabrina Webb,Deal Owner
+OTM-0258,OPP-0258,SE,SE-037,Supporting SE
+OTM-0259,OPP-0259,AE,Derrick Galloway,Deal Owner
+OTM-0260,OPP-0260,SE,SE-034,Primary SE
+OTM-0261,OPP-0261,AE,Allison Thomas,Deal Owner
+OTM-0262,OPP-0262,SE,SE-017,Supporting SE
+OTM-0263,OPP-0263,AE,Debbie Porter,Deal Owner
+OTM-0264,OPP-0264,SE,SE-022,Primary SE
+OTM-0265,OPP-0265,AE,Carolyn Ramirez,Deal Owner
+OTM-0266,OPP-0266,SE,SE-038,Primary SE
+OTM-0267,OPP-0267,AE,Sharon Mueller,Deal Owner
+OTM-0268,OPP-0268,SE,SE-015,Primary SE
+OTM-0269,OPP-0269,AE,Gregory Kramer,Deal Owner
+OTM-0270,OPP-0270,SE,SE-010,Supporting SE
+OTM-0271,OPP-0271,AE,Tracy Ferguson,Deal Owner
+OTM-0272,OPP-0272,SE,SE-040,Primary SE
+OTM-0273,OPP-0273,AE,Anthony Hall,Deal Owner
+OTM-0274,OPP-0274,SE,SE-035,Supporting SE
+OTM-0275,OPP-0275,AE,David Chaney,Deal Owner
+OTM-0276,OPP-0276,SE,SE-036,Primary SE
+OTM-0277,OPP-0277,AE,Leslie Barton,Deal Owner
+OTM-0278,OPP-0278,SE,SE-032,Supporting SE
+OTM-0279,OPP-0279,AE,Cassandra Jennings,Deal Owner
+OTM-0280,OPP-0280,SE,SE-035,Primary SE
+OTM-0281,OPP-0281,AE,Lindsey Diaz,Deal Owner
+OTM-0282,OPP-0282,SE,SE-037,Primary SE
+OTM-0283,OPP-0283,AE,Victoria Nguyen,Deal Owner
+OTM-0284,OPP-0284,SE,SE-017,Supporting SE
+OTM-0285,OPP-0285,AE,Jason Gutierrez,Deal Owner
+OTM-0286,OPP-0286,SE,SE-007,Primary SE
+OTM-0287,OPP-0287,AE,Damon Nelson,Deal Owner
+OTM-0288,OPP-0288,SE,SE-014,Supporting SE
+OTM-0289,OPP-0289,AE,Norma Woodward,Deal Owner
+OTM-0290,OPP-0290,SE,SE-031,Primary SE
+OTM-0291,OPP-0291,AE,Rebecca Williams,Deal Owner
+OTM-0292,OPP-0292,SE,SE-014,Supporting SE
+OTM-0293,OPP-0293,AE,Tyler Gonzalez,Deal Owner
+OTM-0294,OPP-0294,SE,SE-024,Supporting SE
+OTM-0295,OPP-0295,AE,Corey Brown,Deal Owner
+OTM-0296,OPP-0296,SE,SE-021,Supporting SE
+OTM-0297,OPP-0297,AE,Chris Williams,Deal Owner
+OTM-0298,OPP-0298,SE,SE-024,Supporting SE
+OTM-0299,OPP-0299,AE,Shelly Wells,Deal Owner
+OTM-0300,OPP-0300,SE,SE-004,Supporting SE
+OTM-0301,OPP-0301,AE,Nathan Wagner,Deal Owner
+OTM-0302,OPP-0302,SE,SE-023,Supporting SE
+OTM-0303,OPP-0303,AE,Dr. Justin Donovan DVM,Deal Owner
+OTM-0304,OPP-0304,SE,SE-024,Primary SE
+OTM-0305,OPP-0305,AE,Michael Wilson,Deal Owner
+OTM-0306,OPP-0306,SE,SE-038,Primary SE
+OTM-0307,OPP-0307,AE,Steven Bush,Deal Owner
+OTM-0308,OPP-0308,SE,SE-026,Primary SE
+OTM-0309,OPP-0309,AE,Raymond King,Deal Owner
+OTM-0310,OPP-0310,SE,SE-028,Supporting SE
+OTM-0311,OPP-0311,AE,Catherine Maxwell,Deal Owner
+OTM-0312,OPP-0312,SE,SE-021,Primary SE
+OTM-0313,OPP-0313,AE,Melinda Morris,Deal Owner
+OTM-0314,OPP-0314,SE,SE-023,Primary SE
+OTM-0315,OPP-0315,AE,Austin Cisneros,Deal Owner
+OTM-0316,OPP-0316,SE,SE-028,Primary SE
+OTM-0317,OPP-0317,AE,Allison Cochran,Deal Owner
+OTM-0318,OPP-0318,SE,SE-013,Primary SE
+OTM-0319,OPP-0319,AE,Michael Johnston,Deal Owner
+OTM-0320,OPP-0320,SE,SE-020,Primary SE
+OTM-0321,OPP-0321,AE,John Smith,Deal Owner
+OTM-0322,OPP-0322,SE,SE-034,Primary SE
+OTM-0323,OPP-0323,AE,Johnny Jones,Deal Owner
+OTM-0324,OPP-0324,SE,SE-029,Supporting SE
+OTM-0325,OPP-0325,AE,Sara Newman,Deal Owner
+OTM-0326,OPP-0326,SE,SE-011,Supporting SE
+OTM-0327,OPP-0327,AE,Timothy Roberson,Deal Owner
+OTM-0328,OPP-0328,SE,SE-013,Primary SE
+OTM-0329,OPP-0329,AE,Heather Thompson,Deal Owner
+OTM-0330,OPP-0330,SE,SE-013,Primary SE
+OTM-0331,OPP-0331,AE,Jason Morris,Deal Owner
+OTM-0332,OPP-0332,SE,SE-032,Primary SE
+OTM-0333,OPP-0333,AE,Charles Sanders,Deal Owner
+OTM-0334,OPP-0334,SE,SE-026,Primary SE
+OTM-0335,OPP-0335,AE,Jason Copeland MD,Deal Owner
+OTM-0336,OPP-0336,SE,SE-006,Supporting SE
+OTM-0337,OPP-0337,AE,Kimberly Caldwell,Deal Owner
+OTM-0338,OPP-0338,SE,SE-037,Supporting SE
+OTM-0339,OPP-0339,AE,Christine Silva,Deal Owner
+OTM-0340,OPP-0340,SE,SE-036,Supporting SE
+OTM-0341,OPP-0341,AE,Jorge Crawford,Deal Owner
+OTM-0342,OPP-0342,SE,SE-019,Primary SE
+OTM-0343,OPP-0343,AE,Kyle Mendoza,Deal Owner
+OTM-0344,OPP-0344,SE,SE-026,Primary SE
+OTM-0345,OPP-0345,AE,Kathleen Leblanc,Deal Owner
+OTM-0346,OPP-0346,SE,SE-035,Primary SE
+OTM-0347,OPP-0347,AE,Tiffany Lewis,Deal Owner
+OTM-0348,OPP-0348,SE,SE-035,Primary SE
+OTM-0349,OPP-0349,AE,Mary Mccarthy,Deal Owner
+OTM-0350,OPP-0350,SE,SE-033,Primary SE
+OTM-0351,OPP-0001,AE,Nathan Rhodes,Deal Owner
+OTM-0352,OPP-0002,SE,SE-015,Supporting SE
+OTM-0353,OPP-0003,AE,Blake Gamble,Deal Owner
+OTM-0354,OPP-0004,SE,SE-029,Supporting SE
+OTM-0355,OPP-0005,AE,Laura Moses,Deal Owner
+OTM-0356,OPP-0006,SE,SE-035,Supporting SE
+OTM-0357,OPP-0007,AE,Dennis Lewis,Deal Owner
+OTM-0358,OPP-0008,SE,SE-038,Supporting SE
+OTM-0359,OPP-0009,AE,Kevin Calderon,Deal Owner
+OTM-0360,OPP-0010,SE,SE-007,Primary SE
+OTM-0361,OPP-0011,AE,Benjamin Brown,Deal Owner
+OTM-0362,OPP-0012,SE,SE-019,Primary SE
+OTM-0363,OPP-0013,AE,Tammy Gross,Deal Owner
+OTM-0364,OPP-0014,SE,SE-021,Supporting SE
+OTM-0365,OPP-0015,AE,Travis Smith,Deal Owner
+OTM-0366,OPP-0016,SE,SE-038,Primary SE
+OTM-0367,OPP-0017,AE,William James,Deal Owner
+OTM-0368,OPP-0018,SE,SE-011,Supporting SE
+OTM-0369,OPP-0019,AE,Andrea Love,Deal Owner
+OTM-0370,OPP-0020,SE,SE-032,Supporting SE
+OTM-0371,OPP-0021,AE,Kelsey Hernandez,Deal Owner
+OTM-0372,OPP-0022,SE,SE-009,Supporting SE
+OTM-0373,OPP-0023,AE,Megan Cook,Deal Owner
+OTM-0374,OPP-0024,SE,SE-007,Primary SE
+OTM-0375,OPP-0025,AE,Jamie Edwards,Deal Owner
+OTM-0376,OPP-0026,SE,SE-037,Primary SE
+OTM-0377,OPP-0027,AE,Andrew Adams,Deal Owner
+OTM-0378,OPP-0028,SE,SE-009,Primary SE
+OTM-0379,OPP-0029,AE,Kristin Martinez,Deal Owner
+OTM-0380,OPP-0030,SE,SE-035,Supporting SE
+OTM-0381,OPP-0031,AE,William Rivera,Deal Owner
+OTM-0382,OPP-0032,SE,SE-005,Primary SE
+OTM-0383,OPP-0033,AE,Christie Chapman,Deal Owner
+OTM-0384,OPP-0034,SE,SE-026,Supporting SE
+OTM-0385,OPP-0035,AE,William Bishop,Deal Owner
+OTM-0386,OPP-0036,SE,SE-011,Supporting SE
+OTM-0387,OPP-0037,AE,John Andrews,Deal Owner
+OTM-0388,OPP-0038,SE,SE-020,Primary SE
+OTM-0389,OPP-0039,AE,Robert Murphy,Deal Owner
+OTM-0390,OPP-0040,SE,SE-031,Supporting SE
+OTM-0391,OPP-0041,AE,Lucas Webb,Deal Owner
+OTM-0392,OPP-0042,SE,SE-008,Supporting SE
+OTM-0393,OPP-0043,AE,Jessica Collins,Deal Owner
+OTM-0394,OPP-0044,SE,SE-035,Supporting SE
+OTM-0395,OPP-0045,AE,Stephen Howard,Deal Owner
+OTM-0396,OPP-0046,SE,SE-033,Primary SE
+OTM-0397,OPP-0047,AE,Amanda Barry DDS,Deal Owner
+OTM-0398,OPP-0048,SE,SE-022,Primary SE
+OTM-0399,OPP-0049,AE,Linda Aguilar,Deal Owner
+OTM-0400,OPP-0050,SE,SE-013,Primary SE

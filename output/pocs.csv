@@ -1,0 +1,121 @@
+poc_id,opportunity_id,start_date,end_date,success_criteria,status,environment_type
+POC-0001,OPP-0148,2026-06-10,2026-07-13,Migrate 5 existing pipelines with zero data loss,In Progress,Customer Cloud
+POC-0002,OPP-0319,2026-07-09,2026-07-31,Achieve sub-1s query latency on the benchmark dashboard,At Risk,Customer Cloud
+POC-0003,OPP-0279,2026-05-09,2026-06-21,Deploy 5 ML models to production via ModelServe,Not Started,Hybrid
+POC-0004,OPP-0302,2026-06-29,2026-08-13,Achieve sub-2s query latency on the benchmark dashboard,Completed - Success,Fluxora Sandbox
+POC-0005,OPP-0308,2026-03-23,2026-05-02,Deploy 1 ML models to production via ModelServe,Completed - Failed,Customer Cloud
+POC-0006,OPP-0318,2026-05-28,2026-06-26,Demonstrate role-based access control across 3 business units,Completed - Failed,Customer Cloud
+POC-0007,OPP-0029,2026-04-17,2026-05-04,Achieve sub-2s query latency on the benchmark dashboard,At Risk,Customer Cloud
+POC-0008,OPP-0309,2026-07-15,2026-08-07,Ingest 10TB of historical data within SLA,At Risk,Fluxora Sandbox
+POC-0009,OPP-0214,2026-04-05,2026-04-24,Ingest 1TB of historical data within SLA,In Progress,Customer Cloud
+POC-0010,OPP-0294,2026-04-10,2026-05-12,Demonstrate role-based access control across 10 business units,Completed - Failed,Customer Cloud
+POC-0011,OPP-0019,2026-06-14,2026-07-27,Demonstrate role-based access control across 3 business units,Not Started,Fluxora Sandbox
+POC-0012,OPP-0035,2026-04-20,2026-05-24,Migrate 5 existing pipelines with zero data loss,Completed - Success,Hybrid
+POC-0013,OPP-0069,2026-06-29,2026-07-17,Migrate 5 existing pipelines with zero data loss,Not Started,Hybrid
+POC-0014,OPP-0212,2026-06-29,2026-07-30,Migrate 10 existing pipelines with zero data loss,Completed - Failed,Customer Cloud
+POC-0015,OPP-0056,2026-03-19,2026-04-15,Demonstrate role-based access control across 1 business units,Completed - Failed,Hybrid
+POC-0016,OPP-0148,2026-07-07,2026-07-26,Deploy 10 ML models to production via ModelServe,Completed - Success,Hybrid
+POC-0017,OPP-0295,2026-04-08,2026-05-12,Migrate 10 existing pipelines with zero data loss,Completed - Failed,Fluxora Sandbox
+POC-0018,OPP-0255,2026-04-25,2026-05-17,Demonstrate role-based access control across 10 business units,Completed - Failed,Hybrid
+POC-0019,OPP-0313,2026-06-04,2026-07-19,Deploy 2 ML models to production via ModelServe,In Progress,Hybrid
+POC-0020,OPP-0061,2026-04-26,2026-05-28,Achieve sub-1s query latency on the benchmark dashboard,Not Started,Fluxora Sandbox
+POC-0021,OPP-0213,2026-05-09,2026-05-30,Achieve sub-10s query latency on the benchmark dashboard,Completed - Success,Customer Cloud
+POC-0022,OPP-0327,2026-04-25,2026-05-30,Migrate 10 existing pipelines with zero data loss,In Progress,Customer Cloud
+POC-0023,OPP-0035,2026-07-07,2026-08-02,Migrate 3 existing pipelines with zero data loss,At Risk,Fluxora Sandbox
+POC-0024,OPP-0171,2026-03-26,2026-04-29,Ingest 1TB of historical data within SLA,At Risk,Fluxora Sandbox
+POC-0025,OPP-0170,2026-03-19,2026-04-03,Achieve sub-2s query latency on the benchmark dashboard,At Risk,Hybrid
+POC-0026,OPP-0331,2026-05-28,2026-07-11,Deploy 1 ML models to production via ModelServe,In Progress,Fluxora Sandbox
+POC-0027,OPP-0172,2026-04-29,2026-05-22,Deploy 10 ML models to production via ModelServe,Completed - Success,Fluxora Sandbox
+POC-0028,OPP-0290,2026-03-23,2026-04-09,Demonstrate role-based access control across 3 business units,At Risk,Hybrid
+POC-0029,OPP-0170,2026-06-08,2026-06-23,Achieve sub-10s query latency on the benchmark dashboard,At Risk,Customer Cloud
+POC-0030,OPP-0174,2026-04-16,2026-05-09,Migrate 1 existing pipelines with zero data loss,Completed - Success,Hybrid
+POC-0031,OPP-0200,2026-06-02,2026-06-26,Demonstrate role-based access control across 10 business units,In Progress,Hybrid
+POC-0032,OPP-0017,2026-06-09,2026-06-30,Migrate 3 existing pipelines with zero data loss,At Risk,Fluxora Sandbox
+POC-0033,OPP-0191,2026-06-05,2026-06-24,Deploy 2 ML models to production via ModelServe,Completed - Success,Fluxora Sandbox
+POC-0034,OPP-0090,2026-06-18,2026-07-15,Demonstrate role-based access control across 3 business units,Not Started,Fluxora Sandbox
+POC-0035,OPP-0228,2026-04-14,2026-04-30,Achieve sub-1s query latency on the benchmark dashboard,Completed - Failed,Customer Cloud
+POC-0036,OPP-0098,2026-03-16,2026-04-29,Demonstrate role-based access control across 2 business units,At Risk,Fluxora Sandbox
+POC-0037,OPP-0051,2026-06-12,2026-07-15,Migrate 2 existing pipelines with zero data loss,Completed - Failed,Hybrid
+POC-0038,OPP-0236,2026-06-14,2026-07-06,Achieve sub-1s query latency on the benchmark dashboard,Completed - Success,Hybrid
+POC-0039,OPP-0023,2026-04-24,2026-05-15,Ingest 3TB of historical data within SLA,Completed - Failed,Customer Cloud
+POC-0040,OPP-0053,2026-05-07,2026-06-11,Deploy 1 ML models to production via ModelServe,Completed - Failed,Hybrid
+POC-0041,OPP-0160,2026-06-15,2026-07-18,Ingest 10TB of historical data within SLA,In Progress,Fluxora Sandbox
+POC-0042,OPP-0142,2026-05-03,2026-05-29,Achieve sub-3s query latency on the benchmark dashboard,Completed - Failed,Fluxora Sandbox
+POC-0043,OPP-0077,2026-03-25,2026-05-06,Ingest 3TB of historical data within SLA,In Progress,Fluxora Sandbox
+POC-0044,OPP-0287,2026-05-30,2026-06-20,Ingest 10TB of historical data within SLA,Completed - Failed,Customer Cloud
+POC-0045,OPP-0282,2026-06-19,2026-07-16,Demonstrate role-based access control across 3 business units,At Risk,Fluxora Sandbox
+POC-0046,OPP-0126,2026-05-01,2026-05-24,Migrate 10 existing pipelines with zero data loss,In Progress,Customer Cloud
+POC-0047,OPP-0277,2026-05-25,2026-06-27,Demonstrate role-based access control across 3 business units,Completed - Success,Customer Cloud
+POC-0048,OPP-0346,2026-07-15,2026-08-06,Ingest 5TB of historical data within SLA,Not Started,Customer Cloud
+POC-0049,OPP-0219,2026-07-06,2026-08-13,Ingest 1TB of historical data within SLA,Completed - Success,Customer Cloud
+POC-0050,OPP-0160,2026-04-08,2026-05-20,Demonstrate role-based access control across 3 business units,At Risk,Customer Cloud
+POC-0051,OPP-0068,2026-07-07,2026-07-26,Deploy 10 ML models to production via ModelServe,Not Started,Hybrid
+POC-0052,OPP-0159,2026-07-09,2026-08-21,Ingest 5TB of historical data within SLA,Completed - Success,Fluxora Sandbox
+POC-0053,OPP-0316,2026-05-11,2026-06-08,Achieve sub-2s query latency on the benchmark dashboard,At Risk,Fluxora Sandbox
+POC-0054,OPP-0167,2026-05-13,2026-06-21,Achieve sub-3s query latency on the benchmark dashboard,Completed - Success,Fluxora Sandbox
+POC-0055,OPP-0058,2026-06-03,2026-06-18,Ingest 5TB of historical data within SLA,At Risk,Fluxora Sandbox
+POC-0056,OPP-0179,2026-04-09,2026-05-22,Achieve sub-3s query latency on the benchmark dashboard,Completed - Failed,Hybrid
+POC-0057,OPP-0208,2026-06-15,2026-07-07,Demonstrate role-based access control across 1 business units,Not Started,Fluxora Sandbox
+POC-0058,OPP-0237,2026-04-29,2026-05-17,Migrate 10 existing pipelines with zero data loss,Completed - Success,Hybrid
+POC-0059,OPP-0125,2026-07-08,2026-08-17,Achieve sub-10s query latency on the benchmark dashboard,Completed - Failed,Customer Cloud
+POC-0060,OPP-0175,2026-04-23,2026-06-06,Deploy 1 ML models to production via ModelServe,In Progress,Hybrid
+POC-0061,OPP-0176,2026-06-07,2026-07-18,Deploy 10 ML models to production via ModelServe,Completed - Failed,Hybrid
+POC-0062,OPP-0294,2026-07-05,2026-08-03,Achieve sub-1s query latency on the benchmark dashboard,Completed - Success,Customer Cloud
+POC-0063,OPP-0050,2026-04-12,2026-05-25,Migrate 10 existing pipelines with zero data loss,Completed - Success,Customer Cloud
+POC-0064,OPP-0307,2026-04-14,2026-05-17,Deploy 1 ML models to production via ModelServe,Not Started,Hybrid
+POC-0065,OPP-0331,2026-03-31,2026-05-08,Migrate 5 existing pipelines with zero data loss,Not Started,Customer Cloud
+POC-0066,OPP-0326,2026-04-26,2026-05-23,Achieve sub-10s query latency on the benchmark dashboard,Not Started,Customer Cloud
+POC-0067,OPP-0150,2026-07-01,2026-07-24,Deploy 10 ML models to production via ModelServe,Completed - Success,Hybrid
+POC-0068,OPP-0349,2026-04-27,2026-06-08,Achieve sub-2s query latency on the benchmark dashboard,At Risk,Fluxora Sandbox
+POC-0069,OPP-0046,2026-05-24,2026-06-26,Deploy 3 ML models to production via ModelServe,Completed - Failed,Customer Cloud
+POC-0070,OPP-0032,2026-05-17,2026-06-25,Achieve sub-3s query latency on the benchmark dashboard,At Risk,Hybrid
+POC-0071,OPP-0184,2026-06-27,2026-07-14,Ingest 10TB of historical data within SLA,Not Started,Fluxora Sandbox
+POC-0072,OPP-0303,2026-04-23,2026-05-08,Achieve sub-5s query latency on the benchmark dashboard,Completed - Success,Hybrid
+POC-0073,OPP-0196,2026-05-04,2026-06-07,Deploy 5 ML models to production via ModelServe,Completed - Success,Hybrid
+POC-0074,OPP-0072,2026-03-28,2026-04-24,Achieve sub-5s query latency on the benchmark dashboard,In Progress,Hybrid
+POC-0075,OPP-0079,2026-04-05,2026-05-13,Migrate 5 existing pipelines with zero data loss,At Risk,Hybrid
+POC-0076,OPP-0037,2026-07-15,2026-08-06,Achieve sub-1s query latency on the benchmark dashboard,Not Started,Customer Cloud
+POC-0077,OPP-0044,2026-04-18,2026-06-02,Deploy 2 ML models to production via ModelServe,In Progress,Hybrid
+POC-0078,OPP-0218,2026-07-13,2026-08-22,Deploy 10 ML models to production via ModelServe,Completed - Failed,Customer Cloud
+POC-0079,OPP-0283,2026-07-08,2026-08-20,Demonstrate role-based access control across 5 business units,Completed - Success,Fluxora Sandbox
+POC-0080,OPP-0218,2026-04-24,2026-05-30,Achieve sub-2s query latency on the benchmark dashboard,Completed - Failed,Customer Cloud
+POC-0081,OPP-0138,2026-05-06,2026-06-20,Achieve sub-10s query latency on the benchmark dashboard,Completed - Success,Hybrid
+POC-0082,OPP-0291,2026-06-12,2026-07-19,Ingest 1TB of historical data within SLA,Completed - Success,Hybrid
+POC-0083,OPP-0247,2026-06-12,2026-07-19,Ingest 10TB of historical data within SLA,Not Started,Customer Cloud
+POC-0084,OPP-0041,2026-06-17,2026-07-18,Deploy 10 ML models to production via ModelServe,Completed - Failed,Hybrid
+POC-0085,OPP-0323,2026-05-03,2026-05-22,Achieve sub-5s query latency on the benchmark dashboard,Not Started,Hybrid
+POC-0086,OPP-0176,2026-04-13,2026-05-16,Demonstrate role-based access control across 1 business units,Completed - Failed,Customer Cloud
+POC-0087,OPP-0241,2026-06-08,2026-07-22,Deploy 10 ML models to production via ModelServe,Completed - Failed,Hybrid
+POC-0088,OPP-0151,2026-06-29,2026-08-03,Deploy 3 ML models to production via ModelServe,At Risk,Customer Cloud
+POC-0089,OPP-0289,2026-06-18,2026-07-04,Demonstrate role-based access control across 3 business units,At Risk,Customer Cloud
+POC-0090,OPP-0294,2026-06-26,2026-08-09,Demonstrate role-based access control across 2 business units,Not Started,Hybrid
+POC-0091,OPP-0147,2026-05-05,2026-06-06,Demonstrate role-based access control across 1 business units,Completed - Success,Customer Cloud
+POC-0092,OPP-0143,2026-05-29,2026-06-20,Demonstrate role-based access control across 1 business units,At Risk,Customer Cloud
+POC-0093,OPP-0008,2026-06-08,2026-07-09,Migrate 3 existing pipelines with zero data loss,Not Started,Hybrid
+POC-0094,OPP-0338,2026-05-01,2026-05-26,Demonstrate role-based access control across 2 business units,Completed - Success,Fluxora Sandbox
+POC-0095,OPP-0249,2026-04-03,2026-04-28,Migrate 2 existing pipelines with zero data loss,In Progress,Hybrid
+POC-0096,OPP-0075,2026-05-15,2026-05-31,Migrate 1 existing pipelines with zero data loss,Completed - Failed,Customer Cloud
+POC-0097,OPP-0122,2026-06-28,2026-08-12,Deploy 5 ML models to production via ModelServe,Completed - Success,Hybrid
+POC-0098,OPP-0177,2026-04-09,2026-05-03,Achieve sub-10s query latency on the benchmark dashboard,Not Started,Hybrid
+POC-0099,OPP-0086,2026-04-14,2026-05-14,Ingest 1TB of historical data within SLA,Completed - Success,Fluxora Sandbox
+POC-0100,OPP-0273,2026-06-11,2026-07-25,Migrate 5 existing pipelines with zero data loss,In Progress,Fluxora Sandbox
+POC-0101,OPP-0075,2026-05-18,2026-06-25,Deploy 3 ML models to production via ModelServe,Completed - Failed,Fluxora Sandbox
+POC-0102,OPP-0196,2026-06-19,2026-07-03,Migrate 5 existing pipelines with zero data loss,At Risk,Hybrid
+POC-0103,OPP-0327,2026-04-08,2026-04-24,Ingest 10TB of historical data within SLA,At Risk,Fluxora Sandbox
+POC-0104,OPP-0137,2026-06-13,2026-07-14,Migrate 3 existing pipelines with zero data loss,Not Started,Fluxora Sandbox
+POC-0105,OPP-0345,2026-04-21,2026-05-30,Deploy 2 ML models to production via ModelServe,Completed - Failed,Customer Cloud
+POC-0106,OPP-0281,2026-04-24,2026-05-29,Achieve sub-3s query latency on the benchmark dashboard,Not Started,Hybrid
+POC-0107,OPP-0211,2026-05-23,2026-06-06,Ingest 1TB of historical data within SLA,Not Started,Hybrid
+POC-0108,OPP-0113,2026-04-17,2026-05-07,Deploy 3 ML models to production via ModelServe,At Risk,Fluxora Sandbox
+POC-0109,OPP-0318,2026-07-01,2026-07-27,Ingest 1TB of historical data within SLA,Not Started,Customer Cloud
+POC-0110,OPP-0062,2026-06-11,2026-07-08,Demonstrate role-based access control across 1 business units,Not Started,Hybrid
+POC-0111,OPP-0095,2026-03-20,2026-04-11,Deploy 10 ML models to production via ModelServe,Not Started,Hybrid
+POC-0112,OPP-0240,2026-04-05,2026-04-30,Migrate 3 existing pipelines with zero data loss,Not Started,Hybrid
+POC-0113,OPP-0342,2026-05-03,2026-06-15,Migrate 5 existing pipelines with zero data loss,At Risk,Fluxora Sandbox
+POC-0114,OPP-0032,2026-06-13,2026-07-07,Ingest 3TB of historical data within SLA,Completed - Success,Fluxora Sandbox
+POC-0115,OPP-0136,2026-07-09,2026-08-13,Ingest 3TB of historical data within SLA,In Progress,Fluxora Sandbox
+POC-0116,OPP-0313,2026-06-28,2026-07-16,Deploy 2 ML models to production via ModelServe,Completed - Success,Customer Cloud
+POC-0117,OPP-0277,2026-04-22,2026-06-06,Ingest 2TB of historical data within SLA,Completed - Success,Customer Cloud
+POC-0118,OPP-0053,2026-06-05,2026-06-25,Deploy 3 ML models to production via ModelServe,Not Started,Customer Cloud
+POC-0119,OPP-0229,2026-05-28,2026-06-15,Demonstrate role-based access control across 3 business units,Not Started,Fluxora Sandbox
+POC-0120,OPP-0341,2026-04-06,2026-04-29,Ingest 1TB of historical data within SLA,Completed - Success,Fluxora Sandbox

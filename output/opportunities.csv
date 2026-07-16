@@ -1,0 +1,351 @@
+opportunity_id,account_id,stage,amount,close_date,pod,product_line,primary_competitor
+OPP-0001,ACC-0102,Discovery,166812,2026-04-02,Mid-Market,ModelServe,
+OPP-0002,ACC-0022,Business Case,883636,2026-03-16,Mid-Market,PipelineOps,Confluent
+OPP-0003,ACC-0021,Discovery,689921,2026-01-28,Mid-Market,PipelineOps,Snowflake
+OPP-0004,ACC-0101,Negotiation,725245,2026-12-01,Mid-Market,Lakehouse Core,Confluent
+OPP-0005,ACC-0187,Closed Won,957474,2026-04-20,Enterprise,Lakehouse Core,Snowflake
+OPP-0006,ACC-0030,Discovery,951178,2026-01-27,Strategic,Lakehouse Core,Confluent
+OPP-0007,ACC-0031,Closed Won,408356,2026-04-09,Enterprise,PipelineOps,Databricks
+OPP-0008,ACC-0089,Technical Validation,1081053,2026-04-13,Mid-Market,ModelServe,Snowflake
+OPP-0009,ACC-0192,POC,306192,2026-06-17,Strategic,Lakehouse Core,Databricks
+OPP-0010,ACC-0070,POC,940358,2026-09-21,Mid-Market,Lakehouse Core,Confluent
+OPP-0011,ACC-0128,Closed Won,201627,2026-04-12,Strategic,ModelServe,Databricks
+OPP-0012,ACC-0095,Business Case,389975,2026-05-05,Enterprise,ModelServe,Databricks
+OPP-0013,ACC-0059,Negotiation,281872,2026-08-24,Mid-Market,Lakehouse Core,Databricks
+OPP-0014,ACC-0063,Closed Lost,65769,2026-02-23,Enterprise,Governance Suite,Confluent
+OPP-0015,ACC-0046,Business Case,354750,2026-05-10,Enterprise,Governance Suite,Snowflake
+OPP-0016,ACC-0107,POC,560645,2026-11-21,Mid-Market,ModelServe,Confluent
+OPP-0017,ACC-0147,Closed Lost,203341,2026-12-26,Strategic,Lakehouse Core,Databricks
+OPP-0018,ACC-0133,Technical Validation,508052,2026-10-05,Enterprise,Governance Suite,Databricks
+OPP-0019,ACC-0199,Business Case,632040,2026-10-25,Strategic,ModelServe,Databricks
+OPP-0020,ACC-0003,Negotiation,997866,2026-09-23,Strategic,PipelineOps,Confluent
+OPP-0021,ACC-0190,Negotiation,677344,2026-05-20,Mid-Market,PipelineOps,
+OPP-0022,ACC-0198,POC,1074652,2026-11-13,Enterprise,PipelineOps,Snowflake
+OPP-0023,ACC-0007,Discovery,899908,2026-08-15,Enterprise,ModelServe,Databricks
+OPP-0024,ACC-0195,POC,43066,2026-12-13,Mid-Market,Governance Suite,Confluent
+OPP-0025,ACC-0136,Discovery,470323,2026-10-07,Enterprise,Governance Suite,
+OPP-0026,ACC-0183,Discovery,338578,2026-07-14,Strategic,Lakehouse Core,Databricks
+OPP-0027,ACC-0106,Technical Validation,1130014,2026-06-16,Mid-Market,ModelServe,
+OPP-0028,ACC-0149,Closed Won,218053,2026-08-21,Enterprise,PipelineOps,
+OPP-0029,ACC-0112,Discovery,170616,2026-09-17,Mid-Market,PipelineOps,Snowflake
+OPP-0030,ACC-0081,POC,587337,2026-11-01,Strategic,ModelServe,Confluent
+OPP-0031,ACC-0060,Business Case,610332,2026-11-21,Enterprise,PipelineOps,Snowflake
+OPP-0032,ACC-0040,Closed Lost,268532,2026-02-14,Enterprise,PipelineOps,
+OPP-0033,ACC-0105,Business Case,698575,2027-01-12,Enterprise,ModelServe,Snowflake
+OPP-0034,ACC-0119,Business Case,686568,2026-05-19,Strategic,Lakehouse Core,Databricks
+OPP-0035,ACC-0181,Technical Validation,677985,2026-12-15,Mid-Market,Lakehouse Core,Snowflake
+OPP-0036,ACC-0038,Closed Lost,727433,2026-04-01,Enterprise,PipelineOps,Confluent
+OPP-0037,ACC-0013,Business Case,1116802,2026-09-29,Mid-Market,ModelServe,Confluent
+OPP-0038,ACC-0008,Closed Lost,404627,2026-01-29,Strategic,Governance Suite,Snowflake
+OPP-0039,ACC-0027,Discovery,1008974,2026-02-06,Enterprise,Lakehouse Core,Databricks
+OPP-0040,ACC-0034,Discovery,506172,2026-08-10,Enterprise,Governance Suite,Confluent
+OPP-0041,ACC-0150,Closed Won,216243,2026-12-12,Mid-Market,ModelServe,Databricks
+OPP-0042,ACC-0051,Discovery,175207,2026-07-03,Mid-Market,Governance Suite,Snowflake
+OPP-0043,ACC-0032,Discovery,735310,2026-07-27,Enterprise,Governance Suite,Databricks
+OPP-0044,ACC-0186,Technical Validation,948394,2026-04-28,Strategic,Governance Suite,Databricks
+OPP-0045,ACC-0045,Business Case,934779,2026-08-05,Strategic,PipelineOps,Snowflake
+OPP-0046,ACC-0115,POC,626897,2026-04-12,Enterprise,Lakehouse Core,Snowflake
+OPP-0047,ACC-0128,Closed Won,658880,2026-06-02,Strategic,Governance Suite,Databricks
+OPP-0048,ACC-0099,Discovery,626732,2026-05-03,Enterprise,Governance Suite,Snowflake
+OPP-0049,ACC-0064,Closed Won,1142712,2026-12-20,Mid-Market,Lakehouse Core,
+OPP-0050,ACC-0123,Closed Lost,793112,2026-09-03,Mid-Market,Governance Suite,Confluent
+OPP-0051,ACC-0083,Negotiation,1093595,2026-04-01,Strategic,ModelServe,Snowflake
+OPP-0052,ACC-0153,Discovery,708734,2026-09-11,Enterprise,Lakehouse Core,Confluent
+OPP-0053,ACC-0136,Discovery,1029193,2026-03-11,Strategic,PipelineOps,Snowflake
+OPP-0054,ACC-0169,Discovery,559793,2026-11-02,Enterprise,ModelServe,Databricks
+OPP-0055,ACC-0148,Closed Lost,500139,2026-12-18,Strategic,ModelServe,Snowflake
+OPP-0056,ACC-0152,Technical Validation,536083,2026-01-14,Strategic,ModelServe,Databricks
+OPP-0057,ACC-0146,Closed Won,777530,2026-11-26,Mid-Market,PipelineOps,Snowflake
+OPP-0058,ACC-0139,Closed Lost,1072274,2026-09-06,Strategic,PipelineOps,
+OPP-0059,ACC-0015,Discovery,229283,2026-11-20,Enterprise,PipelineOps,Databricks
+OPP-0060,ACC-0001,Negotiation,1042415,2026-07-14,Strategic,PipelineOps,Snowflake
+OPP-0061,ACC-0083,POC,412160,2026-06-17,Enterprise,Lakehouse Core,Snowflake
+OPP-0062,ACC-0199,Negotiation,337067,2026-12-01,Enterprise,ModelServe,Databricks
+OPP-0063,ACC-0151,POC,869624,2026-11-24,Enterprise,ModelServe,Confluent
+OPP-0064,ACC-0041,POC,326159,2026-05-26,Mid-Market,Governance Suite,
+OPP-0065,ACC-0045,Closed Won,705391,2026-03-07,Mid-Market,ModelServe,Snowflake
+OPP-0066,ACC-0097,Closed Won,407739,2026-11-13,Strategic,ModelServe,Snowflake
+OPP-0067,ACC-0180,Technical Validation,43770,2026-08-14,Mid-Market,Governance Suite,Databricks
+OPP-0068,ACC-0157,Technical Validation,707349,2026-11-20,Enterprise,Lakehouse Core,
+OPP-0069,ACC-0191,Technical Validation,734510,2026-07-10,Enterprise,PipelineOps,Confluent
+OPP-0070,ACC-0163,POC,392085,2026-09-27,Enterprise,ModelServe,
+OPP-0071,ACC-0054,Discovery,596190,2026-03-30,Enterprise,Lakehouse Core,Confluent
+OPP-0072,ACC-0185,POC,266564,2026-02-24,Enterprise,Lakehouse Core,
+OPP-0073,ACC-0043,Business Case,920076,2026-03-05,Strategic,Governance Suite,
+OPP-0074,ACC-0097,POC,1185095,2026-11-07,Enterprise,Governance Suite,Snowflake
+OPP-0075,ACC-0019,Technical Validation,986418,2026-11-07,Enterprise,ModelServe,Databricks
+OPP-0076,ACC-0027,POC,587624,2027-01-08,Enterprise,ModelServe,Snowflake
+OPP-0077,ACC-0188,Business Case,377441,2026-04-15,Enterprise,Lakehouse Core,Confluent
+OPP-0078,ACC-0181,Negotiation,1052372,2026-08-15,Enterprise,Governance Suite,Snowflake
+OPP-0079,ACC-0041,Negotiation,950584,2026-10-12,Enterprise,Lakehouse Core,Confluent
+OPP-0080,ACC-0105,Technical Validation,438425,2026-07-03,Mid-Market,ModelServe,Confluent
+OPP-0081,ACC-0025,POC,538174,2026-08-24,Enterprise,Governance Suite,
+OPP-0082,ACC-0093,Technical Validation,154304,2026-11-09,Enterprise,Governance Suite,Databricks
+OPP-0083,ACC-0052,POC,1047321,2026-12-01,Enterprise,Lakehouse Core,Snowflake
+OPP-0084,ACC-0021,Technical Validation,651972,2026-09-02,Strategic,Lakehouse Core,Confluent
+OPP-0085,ACC-0121,Closed Lost,873549,2026-03-17,Strategic,ModelServe,Databricks
+OPP-0086,ACC-0100,Closed Won,1181114,2027-01-04,Enterprise,ModelServe,
+OPP-0087,ACC-0115,POC,431292,2026-07-03,Enterprise,ModelServe,
+OPP-0088,ACC-0058,Business Case,592391,2026-04-07,Strategic,Lakehouse Core,Snowflake
+OPP-0089,ACC-0022,Closed Lost,242800,2026-05-03,Mid-Market,ModelServe,
+OPP-0090,ACC-0142,Closed Lost,517128,2026-11-05,Enterprise,Governance Suite,
+OPP-0091,ACC-0147,Negotiation,1035778,2026-01-24,Enterprise,Governance Suite,Confluent
+OPP-0092,ACC-0183,Discovery,867964,2026-03-30,Enterprise,PipelineOps,Databricks
+OPP-0093,ACC-0045,Closed Lost,981704,2026-12-11,Enterprise,PipelineOps,Snowflake
+OPP-0094,ACC-0109,Technical Validation,129497,2026-03-21,Enterprise,Governance Suite,Snowflake
+OPP-0095,ACC-0153,Closed Lost,350123,2026-12-05,Strategic,ModelServe,Databricks
+OPP-0096,ACC-0143,Discovery,853902,2026-04-26,Strategic,ModelServe,Confluent
+OPP-0097,ACC-0004,Negotiation,1000825,2026-06-07,Mid-Market,Governance Suite,Databricks
+OPP-0098,ACC-0038,Business Case,353822,2026-09-28,Mid-Market,Lakehouse Core,Databricks
+OPP-0099,ACC-0074,Negotiation,251792,2026-03-01,Mid-Market,ModelServe,
+OPP-0100,ACC-0168,POC,843300,2026-05-08,Strategic,Governance Suite,Databricks
+OPP-0101,ACC-0104,Technical Validation,617585,2026-01-16,Enterprise,Governance Suite,Databricks
+OPP-0102,ACC-0177,Business Case,735193,2026-09-26,Enterprise,Lakehouse Core,
+OPP-0103,ACC-0006,POC,821064,2026-04-15,Strategic,ModelServe,Confluent
+OPP-0104,ACC-0179,POC,1071000,2026-11-05,Mid-Market,Lakehouse Core,Snowflake
+OPP-0105,ACC-0191,Technical Validation,670153,2026-11-28,Strategic,ModelServe,Confluent
+OPP-0106,ACC-0155,Closed Won,914035,2026-05-06,Mid-Market,Lakehouse Core,Snowflake
+OPP-0107,ACC-0105,Business Case,483318,2026-04-25,Mid-Market,Governance Suite,Confluent
+OPP-0108,ACC-0132,Closed Lost,157872,2026-09-25,Enterprise,Lakehouse Core,Confluent
+OPP-0109,ACC-0104,Closed Won,1102826,2026-01-25,Enterprise,Lakehouse Core,Snowflake
+OPP-0110,ACC-0015,Technical Validation,460954,2026-07-05,Enterprise,Lakehouse Core,
+OPP-0111,ACC-0181,Discovery,795761,2026-12-10,Enterprise,ModelServe,Confluent
+OPP-0112,ACC-0130,Closed Lost,1013536,2026-05-26,Strategic,Lakehouse Core,Databricks
+OPP-0113,ACC-0126,Technical Validation,821119,2026-06-06,Mid-Market,Governance Suite,Snowflake
+OPP-0114,ACC-0151,Closed Lost,1035271,2026-11-25,Mid-Market,ModelServe,Confluent
+OPP-0115,ACC-0192,Technical Validation,582449,2027-01-13,Mid-Market,Lakehouse Core,Confluent
+OPP-0116,ACC-0013,Discovery,850686,2026-03-23,Enterprise,PipelineOps,Snowflake
+OPP-0117,ACC-0174,Closed Won,512094,2026-05-05,Enterprise,ModelServe,
+OPP-0118,ACC-0200,Negotiation,82052,2026-02-28,Mid-Market,Lakehouse Core,
+OPP-0119,ACC-0154,Technical Validation,403228,2026-10-30,Enterprise,PipelineOps,Confluent
+OPP-0120,ACC-0183,Negotiation,680595,2026-02-26,Mid-Market,ModelServe,
+OPP-0121,ACC-0118,Business Case,771296,2026-02-15,Strategic,PipelineOps,
+OPP-0122,ACC-0160,POC,1131856,2026-02-13,Strategic,Lakehouse Core,Databricks
+OPP-0123,ACC-0144,Negotiation,824816,2026-10-10,Mid-Market,ModelServe,Confluent
+OPP-0124,ACC-0124,Closed Won,266711,2026-10-27,Enterprise,ModelServe,Confluent
+OPP-0125,ACC-0071,Closed Won,721861,2026-05-06,Strategic,ModelServe,Snowflake
+OPP-0126,ACC-0196,Technical Validation,1124843,2026-02-21,Enterprise,Lakehouse Core,
+OPP-0127,ACC-0175,Closed Won,710219,2026-06-12,Enterprise,Lakehouse Core,
+OPP-0128,ACC-0108,POC,584056,2026-08-11,Strategic,Governance Suite,Databricks
+OPP-0129,ACC-0088,Negotiation,438280,2026-01-29,Mid-Market,PipelineOps,
+OPP-0130,ACC-0130,Closed Won,791822,2026-12-11,Strategic,PipelineOps,Snowflake
+OPP-0131,ACC-0121,POC,244688,2026-02-23,Enterprise,ModelServe,Snowflake
+OPP-0132,ACC-0168,Closed Won,743872,2026-09-17,Enterprise,PipelineOps,Confluent
+OPP-0133,ACC-0108,Technical Validation,684004,2026-03-19,Strategic,ModelServe,Confluent
+OPP-0134,ACC-0119,Negotiation,656669,2026-08-16,Enterprise,Governance Suite,Databricks
+OPP-0135,ACC-0121,Closed Lost,189350,2026-08-13,Enterprise,Lakehouse Core,
+OPP-0136,ACC-0106,Negotiation,665697,2026-11-06,Enterprise,PipelineOps,Snowflake
+OPP-0137,ACC-0105,Technical Validation,758630,2026-08-28,Mid-Market,Governance Suite,Snowflake
+OPP-0138,ACC-0200,POC,418235,2026-09-05,Enterprise,Governance Suite,Confluent
+OPP-0139,ACC-0081,Closed Won,410827,2026-06-02,Mid-Market,Lakehouse Core,Databricks
+OPP-0140,ACC-0054,Business Case,613629,2026-03-25,Enterprise,PipelineOps,
+OPP-0141,ACC-0034,Closed Lost,224636,2026-03-02,Mid-Market,Governance Suite,
+OPP-0142,ACC-0123,Business Case,939731,2027-01-13,Strategic,Lakehouse Core,Databricks
+OPP-0143,ACC-0188,Negotiation,458201,2026-03-31,Strategic,Lakehouse Core,Confluent
+OPP-0144,ACC-0049,Closed Lost,1153658,2026-12-04,Enterprise,Lakehouse Core,Snowflake
+OPP-0145,ACC-0080,Technical Validation,762153,2026-08-30,Enterprise,Lakehouse Core,
+OPP-0146,ACC-0043,Negotiation,681969,2026-10-18,Enterprise,Lakehouse Core,Confluent
+OPP-0147,ACC-0187,POC,996146,2026-06-21,Mid-Market,ModelServe,
+OPP-0148,ACC-0088,Closed Won,320576,2026-09-24,Strategic,ModelServe,Snowflake
+OPP-0149,ACC-0005,Technical Validation,885973,2026-06-29,Enterprise,PipelineOps,Snowflake
+OPP-0150,ACC-0151,Technical Validation,85955,2026-02-18,Mid-Market,PipelineOps,Databricks
+OPP-0151,ACC-0097,POC,118356,2026-02-26,Mid-Market,ModelServe,Databricks
+OPP-0152,ACC-0170,Negotiation,140580,2026-11-02,Enterprise,Lakehouse Core,Databricks
+OPP-0153,ACC-0107,Closed Won,282828,2027-01-06,Strategic,Governance Suite,Databricks
+OPP-0154,ACC-0122,Negotiation,570030,2026-04-15,Mid-Market,PipelineOps,Snowflake
+OPP-0155,ACC-0078,Closed Won,59513,2026-11-14,Strategic,Lakehouse Core,Confluent
+OPP-0156,ACC-0108,Negotiation,327652,2026-09-17,Enterprise,Lakehouse Core,Confluent
+OPP-0157,ACC-0128,Discovery,262851,2026-09-27,Enterprise,PipelineOps,Confluent
+OPP-0158,ACC-0052,Closed Lost,1137116,2026-07-22,Strategic,Governance Suite,Confluent
+OPP-0159,ACC-0141,Technical Validation,122639,2026-07-08,Strategic,PipelineOps,
+OPP-0160,ACC-0001,POC,531793,2026-12-29,Enterprise,Lakehouse Core,Databricks
+OPP-0161,ACC-0039,Closed Lost,1076211,2026-11-22,Enterprise,Lakehouse Core,Databricks
+OPP-0162,ACC-0117,POC,524778,2026-12-14,Strategic,ModelServe,
+OPP-0163,ACC-0045,Discovery,249314,2026-04-15,Enterprise,ModelServe,Confluent
+OPP-0164,ACC-0110,Closed Lost,695794,2026-12-17,Mid-Market,Lakehouse Core,Databricks
+OPP-0165,ACC-0003,Closed Lost,136236,2026-09-21,Enterprise,PipelineOps,Confluent
+OPP-0166,ACC-0160,POC,957953,2026-04-17,Strategic,Lakehouse Core,Confluent
+OPP-0167,ACC-0047,Closed Lost,758741,2026-04-29,Enterprise,Governance Suite,
+OPP-0168,ACC-0099,Business Case,610075,2026-11-24,Mid-Market,Governance Suite,
+OPP-0169,ACC-0029,Closed Won,389760,2026-08-06,Enterprise,Lakehouse Core,Snowflake
+OPP-0170,ACC-0152,Discovery,912473,2026-07-24,Strategic,Governance Suite,Snowflake
+OPP-0171,ACC-0200,Negotiation,836395,2026-11-08,Strategic,Lakehouse Core,Snowflake
+OPP-0172,ACC-0029,Business Case,1063667,2026-05-22,Strategic,Governance Suite,Databricks
+OPP-0173,ACC-0168,Discovery,588641,2026-03-26,Strategic,Lakehouse Core,Snowflake
+OPP-0174,ACC-0133,Closed Won,749467,2026-04-07,Mid-Market,Lakehouse Core,
+OPP-0175,ACC-0124,Closed Won,561303,2026-06-15,Strategic,Governance Suite,Snowflake
+OPP-0176,ACC-0003,Closed Lost,154433,2026-06-06,Mid-Market,PipelineOps,
+OPP-0177,ACC-0043,Closed Lost,1079841,2026-05-07,Enterprise,Governance Suite,Confluent
+OPP-0178,ACC-0072,Technical Validation,733936,2026-11-16,Enterprise,PipelineOps,
+OPP-0179,ACC-0021,Business Case,532830,2026-10-25,Strategic,Governance Suite,
+OPP-0180,ACC-0115,Discovery,1085338,2026-11-12,Strategic,Lakehouse Core,
+OPP-0181,ACC-0027,Closed Won,77264,2026-01-15,Strategic,Governance Suite,Databricks
+OPP-0182,ACC-0001,Negotiation,1191543,2026-04-10,Enterprise,ModelServe,Snowflake
+OPP-0183,ACC-0088,Closed Won,996737,2026-05-19,Strategic,Lakehouse Core,Snowflake
+OPP-0184,ACC-0085,Closed Lost,993071,2026-04-24,Mid-Market,Governance Suite,Confluent
+OPP-0185,ACC-0030,Closed Won,989029,2026-10-11,Enterprise,PipelineOps,Databricks
+OPP-0186,ACC-0163,POC,784780,2026-09-28,Strategic,ModelServe,Databricks
+OPP-0187,ACC-0127,Discovery,384258,2026-07-10,Enterprise,Governance Suite,Databricks
+OPP-0188,ACC-0049,POC,450877,2027-01-03,Enterprise,Governance Suite,Snowflake
+OPP-0189,ACC-0184,Business Case,439672,2026-11-23,Strategic,Lakehouse Core,
+OPP-0190,ACC-0198,Discovery,298409,2026-07-01,Strategic,Governance Suite,Snowflake
+OPP-0191,ACC-0136,Business Case,49096,2026-07-16,Mid-Market,Lakehouse Core,
+OPP-0192,ACC-0131,Closed Lost,1052781,2026-12-23,Enterprise,PipelineOps,Snowflake
+OPP-0193,ACC-0169,Discovery,852448,2026-03-03,Mid-Market,ModelServe,
+OPP-0194,ACC-0071,Business Case,560594,2026-03-24,Strategic,ModelServe,Confluent
+OPP-0195,ACC-0036,Business Case,319701,2026-05-19,Strategic,ModelServe,Confluent
+OPP-0196,ACC-0052,Closed Won,495800,2027-01-04,Enterprise,ModelServe,Confluent
+OPP-0197,ACC-0182,Closed Won,318232,2026-05-04,Mid-Market,PipelineOps,Confluent
+OPP-0198,ACC-0195,Closed Won,282022,2026-10-03,Strategic,Governance Suite,
+OPP-0199,ACC-0074,Closed Won,1159675,2026-06-27,Strategic,Lakehouse Core,Databricks
+OPP-0200,ACC-0038,Discovery,838742,2026-03-28,Enterprise,Lakehouse Core,Snowflake
+OPP-0201,ACC-0074,POC,377505,2026-06-15,Mid-Market,ModelServe,Snowflake
+OPP-0202,ACC-0177,Closed Lost,170092,2026-12-05,Strategic,PipelineOps,Databricks
+OPP-0203,ACC-0027,POC,989159,2026-04-26,Mid-Market,PipelineOps,
+OPP-0204,ACC-0179,Technical Validation,1111481,2026-04-11,Strategic,Lakehouse Core,
+OPP-0205,ACC-0176,Business Case,913602,2026-10-08,Strategic,Lakehouse Core,Databricks
+OPP-0206,ACC-0052,Closed Won,567100,2026-03-20,Mid-Market,Governance Suite,Snowflake
+OPP-0207,ACC-0194,Closed Won,811209,2027-01-12,Mid-Market,PipelineOps,Snowflake
+OPP-0208,ACC-0046,POC,981233,2026-02-17,Mid-Market,Lakehouse Core,Snowflake
+OPP-0209,ACC-0031,Technical Validation,1117614,2026-10-01,Strategic,Lakehouse Core,
+OPP-0210,ACC-0034,POC,594150,2026-02-19,Enterprise,ModelServe,Databricks
+OPP-0211,ACC-0182,POC,1017967,2026-07-19,Enterprise,Lakehouse Core,Snowflake
+OPP-0212,ACC-0199,POC,146651,2026-12-30,Mid-Market,ModelServe,
+OPP-0213,ACC-0092,Closed Lost,1193769,2026-08-19,Enterprise,ModelServe,Snowflake
+OPP-0214,ACC-0018,Technical Validation,1131790,2026-06-22,Mid-Market,PipelineOps,
+OPP-0215,ACC-0104,Negotiation,1166246,2026-04-06,Enterprise,ModelServe,Snowflake
+OPP-0216,ACC-0085,Technical Validation,736010,2026-01-30,Strategic,ModelServe,Snowflake
+OPP-0217,ACC-0122,Closed Lost,1152536,2026-10-09,Mid-Market,Lakehouse Core,Databricks
+OPP-0218,ACC-0115,Closed Won,765629,2026-07-03,Enterprise,PipelineOps,Databricks
+OPP-0219,ACC-0098,Closed Won,713053,2026-10-29,Enterprise,Governance Suite,Confluent
+OPP-0220,ACC-0007,Negotiation,633135,2026-10-16,Mid-Market,ModelServe,
+OPP-0221,ACC-0076,Business Case,131963,2026-02-06,Mid-Market,PipelineOps,Confluent
+OPP-0222,ACC-0025,Negotiation,212690,2026-07-12,Enterprise,Lakehouse Core,Databricks
+OPP-0223,ACC-0176,Technical Validation,487060,2026-06-24,Strategic,Lakehouse Core,Snowflake
+OPP-0224,ACC-0166,Negotiation,952759,2026-04-13,Enterprise,PipelineOps,Databricks
+OPP-0225,ACC-0010,Business Case,735657,2026-08-02,Enterprise,Lakehouse Core,Databricks
+OPP-0226,ACC-0143,Technical Validation,568289,2026-06-21,Enterprise,PipelineOps,Confluent
+OPP-0227,ACC-0116,Business Case,853763,2026-10-18,Mid-Market,Governance Suite,
+OPP-0228,ACC-0100,POC,75422,2026-04-21,Mid-Market,Lakehouse Core,Databricks
+OPP-0229,ACC-0194,Closed Won,172618,2026-05-28,Mid-Market,Lakehouse Core,Databricks
+OPP-0230,ACC-0028,POC,1094525,2026-08-06,Strategic,ModelServe,Databricks
+OPP-0231,ACC-0098,POC,957873,2026-04-06,Strategic,Lakehouse Core,
+OPP-0232,ACC-0057,Technical Validation,1158762,2026-05-15,Enterprise,Governance Suite,Confluent
+OPP-0233,ACC-0077,Closed Won,342148,2026-03-24,Mid-Market,ModelServe,Databricks
+OPP-0234,ACC-0032,Negotiation,336482,2026-11-16,Enterprise,Lakehouse Core,
+OPP-0235,ACC-0022,Negotiation,1188244,2026-05-09,Strategic,PipelineOps,Confluent
+OPP-0236,ACC-0166,Technical Validation,905399,2026-12-31,Mid-Market,PipelineOps,Snowflake
+OPP-0237,ACC-0158,Technical Validation,503025,2026-08-12,Strategic,PipelineOps,Databricks
+OPP-0238,ACC-0193,Technical Validation,154060,2026-06-16,Mid-Market,Governance Suite,Databricks
+OPP-0239,ACC-0065,POC,181269,2026-02-21,Enterprise,PipelineOps,
+OPP-0240,ACC-0033,POC,788973,2026-12-16,Mid-Market,PipelineOps,Databricks
+OPP-0241,ACC-0050,POC,186399,2026-02-19,Strategic,Governance Suite,
+OPP-0242,ACC-0178,POC,681047,2026-08-01,Mid-Market,PipelineOps,Confluent
+OPP-0243,ACC-0110,Closed Lost,703398,2027-01-11,Enterprise,Lakehouse Core,Confluent
+OPP-0244,ACC-0183,Technical Validation,504573,2026-06-15,Mid-Market,Governance Suite,Confluent
+OPP-0245,ACC-0035,Closed Lost,793896,2026-06-07,Mid-Market,ModelServe,
+OPP-0246,ACC-0092,Business Case,973983,2026-01-27,Strategic,Governance Suite,Databricks
+OPP-0247,ACC-0072,Technical Validation,211911,2026-06-16,Enterprise,PipelineOps,Confluent
+OPP-0248,ACC-0187,Closed Won,200353,2026-05-28,Enterprise,Lakehouse Core,Databricks
+OPP-0249,ACC-0197,Closed Lost,889628,2026-11-21,Mid-Market,PipelineOps,Databricks
+OPP-0250,ACC-0140,Negotiation,586552,2026-02-04,Mid-Market,Governance Suite,Snowflake
+OPP-0251,ACC-0058,POC,863128,2026-11-11,Mid-Market,ModelServe,Snowflake
+OPP-0252,ACC-0131,Business Case,1090931,2026-11-25,Enterprise,Governance Suite,Confluent
+OPP-0253,ACC-0170,Negotiation,62212,2026-09-26,Enterprise,PipelineOps,Snowflake
+OPP-0254,ACC-0046,Business Case,373913,2026-04-13,Mid-Market,PipelineOps,
+OPP-0255,ACC-0057,POC,124766,2026-08-04,Strategic,PipelineOps,Databricks
+OPP-0256,ACC-0060,POC,814761,2026-08-01,Enterprise,PipelineOps,Confluent
+OPP-0257,ACC-0117,Business Case,1024978,2026-12-27,Enterprise,Lakehouse Core,Confluent
+OPP-0258,ACC-0163,Discovery,1133398,2026-03-19,Strategic,ModelServe,Snowflake
+OPP-0259,ACC-0094,Business Case,833810,2026-10-13,Mid-Market,Lakehouse Core,Confluent
+OPP-0260,ACC-0133,Business Case,507453,2026-11-17,Strategic,ModelServe,Confluent
+OPP-0261,ACC-0155,Business Case,1051058,2026-06-24,Enterprise,PipelineOps,
+OPP-0262,ACC-0020,Technical Validation,522325,2026-10-14,Mid-Market,ModelServe,Snowflake
+OPP-0263,ACC-0041,Technical Validation,431969,2026-04-13,Strategic,Lakehouse Core,Snowflake
+OPP-0264,ACC-0185,Business Case,732531,2026-03-16,Enterprise,Governance Suite,
+OPP-0265,ACC-0152,Business Case,481878,2026-05-10,Enterprise,Governance Suite,Databricks
+OPP-0266,ACC-0033,Technical Validation,130480,2026-04-16,Mid-Market,PipelineOps,Snowflake
+OPP-0267,ACC-0011,Closed Won,1115089,2026-08-02,Mid-Market,PipelineOps,Databricks
+OPP-0268,ACC-0047,Technical Validation,581609,2026-10-04,Mid-Market,Governance Suite,Databricks
+OPP-0269,ACC-0022,Closed Won,634447,2026-05-22,Enterprise,Governance Suite,
+OPP-0270,ACC-0044,Closed Lost,1050131,2026-10-09,Enterprise,Governance Suite,Snowflake
+OPP-0271,ACC-0160,Closed Lost,421438,2026-01-22,Mid-Market,ModelServe,Snowflake
+OPP-0272,ACC-0117,Closed Won,758633,2026-05-03,Mid-Market,Lakehouse Core,Snowflake
+OPP-0273,ACC-0034,Business Case,848372,2027-01-05,Enterprise,Lakehouse Core,Snowflake
+OPP-0274,ACC-0176,Negotiation,1097718,2026-08-16,Strategic,PipelineOps,Databricks
+OPP-0275,ACC-0158,Technical Validation,1037970,2026-01-28,Mid-Market,Lakehouse Core,Databricks
+OPP-0276,ACC-0169,Discovery,1051332,2026-09-11,Enterprise,Lakehouse Core,
+OPP-0277,ACC-0095,Negotiation,922238,2026-12-31,Enterprise,Governance Suite,Snowflake
+OPP-0278,ACC-0197,Closed Lost,1051086,2026-06-20,Strategic,ModelServe,Databricks
+OPP-0279,ACC-0066,Business Case,320773,2026-09-05,Strategic,PipelineOps,Databricks
+OPP-0280,ACC-0105,POC,1180286,2026-05-18,Strategic,PipelineOps,Databricks
+OPP-0281,ACC-0148,Closed Won,54919,2026-10-31,Mid-Market,Lakehouse Core,Databricks
+OPP-0282,ACC-0177,Business Case,470794,2026-05-02,Strategic,Governance Suite,Confluent
+OPP-0283,ACC-0110,Discovery,364594,2026-05-23,Mid-Market,ModelServe,Confluent
+OPP-0284,ACC-0109,Closed Lost,1164293,2026-06-11,Mid-Market,ModelServe,Confluent
+OPP-0285,ACC-0194,Closed Won,873521,2026-11-26,Enterprise,Governance Suite,
+OPP-0286,ACC-0144,Technical Validation,816392,2026-12-05,Mid-Market,Governance Suite,Confluent
+OPP-0287,ACC-0199,POC,762167,2026-05-27,Mid-Market,Governance Suite,Snowflake
+OPP-0288,ACC-0192,Closed Lost,289740,2026-11-14,Enterprise,Governance Suite,Snowflake
+OPP-0289,ACC-0131,Discovery,489751,2026-06-10,Strategic,ModelServe,Databricks
+OPP-0290,ACC-0163,Technical Validation,856009,2026-03-27,Enterprise,Lakehouse Core,Snowflake
+OPP-0291,ACC-0023,Business Case,953052,2026-08-02,Enterprise,ModelServe,Snowflake
+OPP-0292,ACC-0156,POC,207855,2026-06-15,Enterprise,Governance Suite,
+OPP-0293,ACC-0074,Negotiation,1132627,2026-04-30,Mid-Market,Lakehouse Core,Snowflake
+OPP-0294,ACC-0113,Closed Won,1076765,2026-08-04,Enterprise,PipelineOps,Confluent
+OPP-0295,ACC-0154,Technical Validation,110483,2026-02-21,Mid-Market,PipelineOps,Snowflake
+OPP-0296,ACC-0093,Closed Won,115625,2026-07-09,Enterprise,Lakehouse Core,Snowflake
+OPP-0297,ACC-0200,Discovery,618681,2026-01-15,Strategic,ModelServe,
+OPP-0298,ACC-0133,Business Case,460081,2026-12-26,Enterprise,Lakehouse Core,Databricks
+OPP-0299,ACC-0186,Negotiation,636626,2026-11-06,Mid-Market,ModelServe,Confluent
+OPP-0300,ACC-0058,Closed Lost,619878,2026-07-18,Mid-Market,PipelineOps,
+OPP-0301,ACC-0067,Business Case,49754,2026-02-11,Enterprise,Governance Suite,Databricks
+OPP-0302,ACC-0129,Negotiation,191804,2026-06-13,Strategic,ModelServe,Databricks
+OPP-0303,ACC-0066,Closed Lost,1116440,2026-07-06,Mid-Market,ModelServe,
+OPP-0304,ACC-0198,Business Case,1054245,2026-12-14,Enterprise,ModelServe,
+OPP-0305,ACC-0151,Closed Won,1006200,2026-10-14,Enterprise,Governance Suite,Databricks
+OPP-0306,ACC-0098,POC,181671,2026-10-06,Mid-Market,PipelineOps,Snowflake
+OPP-0307,ACC-0106,Closed Lost,702135,2026-01-21,Strategic,Lakehouse Core,Confluent
+OPP-0308,ACC-0024,Technical Validation,642489,2026-11-30,Strategic,ModelServe,Databricks
+OPP-0309,ACC-0122,Negotiation,414311,2026-01-18,Strategic,ModelServe,Snowflake
+OPP-0310,ACC-0047,Negotiation,604292,2026-01-30,Mid-Market,PipelineOps,
+OPP-0311,ACC-0061,Closed Won,458731,2026-04-01,Mid-Market,PipelineOps,Confluent
+OPP-0312,ACC-0052,Technical Validation,520683,2026-12-05,Enterprise,ModelServe,Snowflake
+OPP-0313,ACC-0031,Closed Lost,263743,2026-08-10,Enterprise,Governance Suite,Databricks
+OPP-0314,ACC-0011,Closed Lost,1175553,2026-12-21,Strategic,ModelServe,Confluent
+OPP-0315,ACC-0126,Business Case,616156,2026-03-13,Enterprise,ModelServe,
+OPP-0316,ACC-0014,Technical Validation,308951,2026-06-07,Mid-Market,Governance Suite,
+OPP-0317,ACC-0129,Negotiation,108288,2026-01-20,Strategic,Governance Suite,Snowflake
+OPP-0318,ACC-0179,Business Case,292430,2026-08-10,Mid-Market,Governance Suite,Confluent
+OPP-0319,ACC-0004,Closed Won,57655,2026-08-22,Mid-Market,PipelineOps,
+OPP-0320,ACC-0084,Negotiation,251283,2026-03-10,Strategic,ModelServe,Snowflake
+OPP-0321,ACC-0061,Negotiation,591234,2026-01-23,Strategic,Governance Suite,Confluent
+OPP-0322,ACC-0128,POC,425694,2026-08-06,Strategic,PipelineOps,
+OPP-0323,ACC-0094,Closed Won,820789,2026-02-11,Strategic,ModelServe,
+OPP-0324,ACC-0148,Technical Validation,315018,2026-10-29,Mid-Market,PipelineOps,Databricks
+OPP-0325,ACC-0061,Closed Won,606124,2026-11-16,Mid-Market,Governance Suite,
+OPP-0326,ACC-0190,Technical Validation,345856,2027-01-12,Enterprise,Governance Suite,Databricks
+OPP-0327,ACC-0128,Technical Validation,923992,2026-03-31,Enterprise,ModelServe,
+OPP-0328,ACC-0144,POC,566330,2026-04-10,Mid-Market,Lakehouse Core,
+OPP-0329,ACC-0016,Discovery,382552,2026-04-15,Enterprise,ModelServe,
+OPP-0330,ACC-0116,Closed Lost,241959,2026-03-16,Mid-Market,ModelServe,Confluent
+OPP-0331,ACC-0144,POC,795617,2026-07-16,Mid-Market,ModelServe,Confluent
+OPP-0332,ACC-0032,Discovery,903525,2026-05-29,Strategic,PipelineOps,Snowflake
+OPP-0333,ACC-0091,Closed Lost,636867,2026-08-04,Strategic,Governance Suite,
+OPP-0334,ACC-0158,Discovery,839163,2026-04-17,Strategic,Governance Suite,Snowflake
+OPP-0335,ACC-0164,Closed Lost,391431,2026-05-08,Strategic,Governance Suite,
+OPP-0336,ACC-0021,Closed Lost,189619,2026-12-24,Enterprise,ModelServe,Snowflake
+OPP-0337,ACC-0168,POC,704541,2026-08-01,Strategic,ModelServe,
+OPP-0338,ACC-0200,POC,973019,2026-04-24,Strategic,Governance Suite,
+OPP-0339,ACC-0006,Technical Validation,425637,2026-10-12,Enterprise,PipelineOps,Confluent
+OPP-0340,ACC-0054,Closed Won,207907,2026-07-09,Enterprise,Governance Suite,Databricks
+OPP-0341,ACC-0122,Discovery,173782,2026-01-23,Mid-Market,Lakehouse Core,Databricks
+OPP-0342,ACC-0135,Closed Lost,872595,2026-04-21,Enterprise,Lakehouse Core,Confluent
+OPP-0343,ACC-0022,Negotiation,365633,2026-10-11,Mid-Market,Governance Suite,Confluent
+OPP-0344,ACC-0189,Technical Validation,558828,2026-09-26,Strategic,Governance Suite,Snowflake
+OPP-0345,ACC-0044,Technical Validation,1144658,2026-05-27,Enterprise,Lakehouse Core,Confluent
+OPP-0346,ACC-0122,Closed Lost,721996,2026-01-27,Strategic,ModelServe,
+OPP-0347,ACC-0046,Technical Validation,1170968,2026-03-27,Mid-Market,Governance Suite,
+OPP-0348,ACC-0080,Negotiation,1159426,2026-05-11,Strategic,Governance Suite,Snowflake
+OPP-0349,ACC-0114,Closed Lost,227808,2026-02-15,Strategic,ModelServe,
+OPP-0350,ACC-0078,POC,366563,2026-11-27,Enterprise,Lakehouse Core,Snowflake

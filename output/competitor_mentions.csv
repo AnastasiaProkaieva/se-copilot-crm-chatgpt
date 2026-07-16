@@ -1,0 +1,151 @@
+mention_id,opportunity_id,competitor_name,context,threat_level
+CMP-0001,OPP-0004,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0002,OPP-0129,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0003,OPP-0203,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0004,OPP-0187,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0005,OPP-0275,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0006,OPP-0225,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0007,OPP-0083,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0008,OPP-0223,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0009,OPP-0102,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0010,OPP-0146,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0011,OPP-0203,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0012,OPP-0170,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0013,OPP-0342,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0014,OPP-0341,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0015,OPP-0216,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0016,OPP-0254,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0017,OPP-0066,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0018,OPP-0257,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0019,OPP-0200,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0020,OPP-0056,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0021,OPP-0080,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0022,OPP-0007,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0023,OPP-0027,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0024,OPP-0220,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0025,OPP-0005,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0026,OPP-0149,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0027,OPP-0043,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0028,OPP-0317,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0029,OPP-0262,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0030,OPP-0144,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0031,OPP-0127,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0032,OPP-0102,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0033,OPP-0053,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0034,OPP-0258,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0035,OPP-0097,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0036,OPP-0325,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0037,OPP-0062,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0038,OPP-0020,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0039,OPP-0075,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0040,OPP-0316,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0041,OPP-0027,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0042,OPP-0269,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0043,OPP-0325,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0044,OPP-0173,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0045,OPP-0032,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0046,OPP-0330,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0047,OPP-0057,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0048,OPP-0144,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0049,OPP-0215,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0050,OPP-0025,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0051,OPP-0001,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0052,OPP-0165,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0053,OPP-0242,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0054,OPP-0052,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0055,OPP-0130,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0056,OPP-0172,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0057,OPP-0050,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0058,OPP-0350,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0059,OPP-0170,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0060,OPP-0186,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0061,OPP-0271,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0062,OPP-0122,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0063,OPP-0108,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0064,OPP-0045,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0065,OPP-0323,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0066,OPP-0062,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0067,OPP-0336,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0068,OPP-0229,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0069,OPP-0280,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0070,OPP-0155,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0071,OPP-0104,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0072,OPP-0079,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0073,OPP-0099,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0074,OPP-0130,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0075,OPP-0188,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0076,OPP-0061,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0077,OPP-0248,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0078,OPP-0258,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0079,OPP-0307,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0080,OPP-0067,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0081,OPP-0290,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0082,OPP-0098,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0083,OPP-0254,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0084,OPP-0263,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0085,OPP-0225,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0086,OPP-0288,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0087,OPP-0311,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0088,OPP-0095,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0089,OPP-0293,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0090,OPP-0005,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0091,OPP-0258,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0092,OPP-0269,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0093,OPP-0113,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0094,OPP-0138,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0095,OPP-0088,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0096,OPP-0274,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0097,OPP-0021,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0098,OPP-0143,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0099,OPP-0027,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0100,OPP-0108,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0101,OPP-0001,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0102,OPP-0324,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0103,OPP-0167,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0104,OPP-0282,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0105,OPP-0069,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0106,OPP-0151,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0107,OPP-0321,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0108,OPP-0113,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0109,OPP-0091,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0110,OPP-0276,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0111,OPP-0055,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0112,OPP-0196,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0113,OPP-0321,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0114,OPP-0283,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0115,OPP-0113,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0116,OPP-0105,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0117,OPP-0203,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0118,OPP-0119,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0119,OPP-0223,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Medium
+CMP-0120,OPP-0246,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0121,OPP-0093,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0122,OPP-0091,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0123,OPP-0252,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0124,OPP-0332,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0125,OPP-0159,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0126,OPP-0202,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0127,OPP-0097,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0128,OPP-0037,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0129,OPP-0233,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0130,OPP-0052,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0131,OPP-0071,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0132,OPP-0309,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0133,OPP-0197,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0134,OPP-0007,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0135,OPP-0068,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0136,OPP-0138,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0137,OPP-0308,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,Low
+CMP-0138,OPP-0055,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0139,OPP-0174,Confluent,Customer runs Confluent for streaming and wants to know how PipelineOps interoperates with existing Kafka topics.,High
+CMP-0140,OPP-0104,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0141,OPP-0289,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Medium
+CMP-0142,OPP-0158,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0143,OPP-0080,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,Low
+CMP-0144,OPP-0279,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,High
+CMP-0145,OPP-0322,Snowflake,Customer standardized on Snowflake for warehousing and is comparing total cost of ownership.,High
+CMP-0146,OPP-0011,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0147,OPP-0279,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0148,OPP-0262,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
+CMP-0149,OPP-0001,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Low
+CMP-0150,OPP-0117,Databricks,Customer's data science team already has Databricks notebooks in production; migration friction is the main objection.,Medium
