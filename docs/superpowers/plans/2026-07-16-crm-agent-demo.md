@@ -165,8 +165,6 @@ cd /Users/aprokaeva/TECH/personal/CRM_agent
 git add scripts/crm_data/__init__.py scripts/crm_data/roster.py scripts/tests/test_roster.py
 git commit -m "$(cat <<'EOF'
 Add SE roster generator for CRM synthetic data
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 EOF
 )"
 ```
@@ -394,8 +392,6 @@ cd /Users/aprokaeva/TECH/personal/CRM_agent
 git add scripts/crm_data/accounts.py scripts/crm_data/contacts.py scripts/tests/test_accounts.py scripts/tests/test_contacts.py
 git commit -m "$(cat <<'EOF'
 Add Account and Contact generators
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 EOF
 )"
 ```
@@ -652,8 +648,6 @@ cd /Users/aprokaeva/TECH/personal/CRM_agent
 git add scripts/crm_data/opportunities.py scripts/crm_data/opportunity_team_members.py scripts/tests/test_opportunities.py scripts/tests/test_opportunity_team_members.py
 git commit -m "$(cat <<'EOF'
 Add Opportunity and OpportunityTeamMember generators
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 EOF
 )"
 ```
@@ -902,8 +896,6 @@ cd /Users/aprokaeva/TECH/personal/CRM_agent
 git add scripts/crm_data/pocs.py scripts/crm_data/se_activities.py scripts/tests/test_pocs.py scripts/tests/test_se_activities.py
 git commit -m "$(cat <<'EOF'
 Add POC and SE_Activity generators
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 EOF
 )"
 ```
@@ -1153,8 +1145,6 @@ cd /Users/aprokaeva/TECH/personal/CRM_agent
 git add scripts/crm_data/competitor_mentions.py scripts/crm_data/rfp_responses.py scripts/tests/test_competitor_mentions.py scripts/tests/test_rfp_responses.py
 git commit -m "$(cat <<'EOF'
 Add Competitor_Mention and RFP_Response generators
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 EOF
 )"
 ```
@@ -1440,8 +1430,6 @@ cd /Users/aprokaeva/TECH/personal/CRM_agent
 git add scripts/generate_crm_data.py scripts/crm_data/csv_writer.py scripts/tests/test_generate_crm_data.py output/
 git commit -m "$(cat <<'EOF'
 Add main CRM data generation script and generated output
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 EOF
 )"
 ```
@@ -1603,8 +1591,6 @@ cd /Users/aprokaeva/TECH/personal/CRM_agent
 git add docs/chatgpt-enterprise-setup-guide.md
 git commit -m "$(cat <<'EOF'
 Add ChatGPT Enterprise setup guideline document
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 EOF
 )"
 ```
@@ -1680,8 +1666,6 @@ cd /Users/aprokaeva/TECH/personal/CRM_agent
 git add README.md
 git commit -m "$(cat <<'EOF'
 Add top-level README
-
-Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 EOF
 )"
 ```
