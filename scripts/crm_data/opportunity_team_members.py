@@ -23,31 +23,36 @@ def generate_opportunity_team_members(
             se_ids_by_pod.setdefault(r["pod"], []).append(r["se_id"])
     all_se_ids = [r["se_id"] for r in roster if r["role"] == "SE"]
 
+    # Staff opportunities in order with a coherent (AE, SE) pair each, so a
+    # given deal has exactly one Deal Owner and one SE. With count=400 this
+    # fully staffs the first 200 opportunities — the pool the demo scenario
+    # draws its hero deal from.
     members = []
-    opp_index = 0
-    for i in range(1, count + 1):
-        opp = opportunities[opp_index % len(opportunities)]
-        opp_index += 1
-
-        if i % 2 == 1:
-            members.append(
-                {
-                    "team_member_id": f"OTM-{i:04d}",
-                    "opportunity_id": opp["opportunity_id"],
-                    "member_type": "AE",
-                    "member_name": fake.name(),
-                    "role": rng.choice(AE_ROLES),
-                }
-            )
-        else:
-            pod_ses = se_ids_by_pod.get(opp["pod"], all_se_ids)
-            members.append(
-                {
-                    "team_member_id": f"OTM-{i:04d}",
-                    "opportunity_id": opp["opportunity_id"],
-                    "member_type": "SE",
-                    "member_name": rng.choice(pod_ses),
-                    "role": rng.choice(SE_ROLES),
-                }
-            )
+    i = 0
+    for opp in opportunities:
+        if i >= count:
+            break
+        i += 1
+        members.append(
+            {
+                "team_member_id": f"OTM-{i:04d}",
+                "opportunity_id": opp["opportunity_id"],
+                "member_type": "AE",
+                "member_name": fake.name(),
+                "role": rng.choice(AE_ROLES),
+            }
+        )
+        if i >= count:
+            break
+        i += 1
+        pod_ses = se_ids_by_pod.get(opp["pod"], all_se_ids)
+        members.append(
+            {
+                "team_member_id": f"OTM-{i:04d}",
+                "opportunity_id": opp["opportunity_id"],
+                "member_type": "SE",
+                "member_name": rng.choice(pod_ses),
+                "role": rng.choice(SE_ROLES),
+            }
+        )
     return members

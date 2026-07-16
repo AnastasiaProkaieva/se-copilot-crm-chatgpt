@@ -15,15 +15,17 @@ CONTEXT_TEMPLATES = {
 def generate_competitor_mentions(
     rng: random.Random, opportunities: list[dict], count: int = 150
 ) -> list[dict]:
-    opportunity_ids = [o["opportunity_id"] for o in opportunities]
-
     mentions = []
     for i in range(1, count + 1):
-        competitor = rng.choice(COMPETITOR_NAMES)
+        opp = rng.choice(opportunities)
+        # Keep the mention coherent with the deal: if the opportunity names a
+        # primary competitor, the mention is about that same competitor;
+        # otherwise pick any competitor.
+        competitor = opp.get("primary_competitor") or rng.choice(COMPETITOR_NAMES)
         mentions.append(
             {
                 "mention_id": f"CMP-{i:04d}",
-                "opportunity_id": rng.choice(opportunity_ids),
+                "opportunity_id": opp["opportunity_id"],
                 "competitor_name": competitor,
                 "context": CONTEXT_TEMPLATES[competitor].format(competitor=competitor),
                 "threat_level": rng.choice(THREAT_LEVELS),

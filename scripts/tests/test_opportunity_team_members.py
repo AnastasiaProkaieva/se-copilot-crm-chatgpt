@@ -42,3 +42,22 @@ def test_se_team_members_reference_existing_roster_ids():
     for m in members:
         if m["member_type"] == "SE":
             assert m["member_name"] in valid_se_ids
+
+
+def test_each_staffed_opportunity_has_exactly_one_ae_and_one_se():
+    rng = random.Random(42)
+    accounts = generate_accounts(rng, count=200)
+    opps = generate_opportunities(rng, accounts, count=350)
+    roster = generate_se_roster(rng)
+    members = generate_opportunity_team_members(rng, opps, roster, count=400)
+
+    from collections import defaultdict
+
+    types_by_opp = defaultdict(list)
+    for m in members:
+        types_by_opp[m["opportunity_id"]].append(m["member_type"])
+
+    # With count=400 (even), every staffed opportunity gets a full AE+SE pair.
+    for opp_id, types in types_by_opp.items():
+        assert types.count("AE") == 1, f"{opp_id} should have exactly one AE"
+        assert types.count("SE") == 1, f"{opp_id} should have exactly one SE"

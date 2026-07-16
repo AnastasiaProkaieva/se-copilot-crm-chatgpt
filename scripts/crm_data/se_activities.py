@@ -32,17 +32,19 @@ def generate_se_activities(
     fake = Faker()
     fake.seed_instance(rng.randint(0, 2**32 - 1))
 
-    opportunity_ids = [o["opportunity_id"] for o in opportunities]
     se_ids = [r["se_id"] for r in roster if r["role"] in ("SE", "SE Manager")]
 
     activities = []
     for i in range(1, count + 1):
+        opp = rng.choice(opportunities)
         activity_type = rng.choice(ACTIVITY_TYPES)
-        tag = rng.choice(TAGS)
+        # Note references the deal's own product line, so the activity log
+        # reads coherently rather than citing an unrelated product.
+        tag = opp.get("product_line") or rng.choice(TAGS)
         activities.append(
             {
                 "activity_id": f"ACT-{i:04d}",
-                "opportunity_id": rng.choice(opportunity_ids),
+                "opportunity_id": opp["opportunity_id"],
                 "se_id": rng.choice(se_ids),
                 "activity_type": activity_type,
                 "activity_date": fake.date_between(

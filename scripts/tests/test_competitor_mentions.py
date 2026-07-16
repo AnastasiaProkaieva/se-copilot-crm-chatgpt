@@ -42,3 +42,15 @@ def test_mention_competitor_and_threat_values():
         assert m["competitor_name"] in COMPETITOR_NAMES
         assert m["threat_level"] in THREAT_LEVELS
         assert m["context"]
+
+
+def test_mention_matches_opportunity_primary_competitor_when_set():
+    rng = random.Random(42)
+    accounts = generate_accounts(rng, count=200)
+    opps = generate_opportunities(rng, accounts, count=350)
+    opp_competitor = {o["opportunity_id"]: o["primary_competitor"] for o in opps}
+    mentions = generate_competitor_mentions(rng, opps, count=150)
+    for m in mentions:
+        primary = opp_competitor[m["opportunity_id"]]
+        if primary:
+            assert m["competitor_name"] == primary

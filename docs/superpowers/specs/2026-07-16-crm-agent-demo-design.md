@@ -1,7 +1,8 @@
 # Fluxora SE Copilot Demo — Design Spec
 
 Date: 2026-07-16
-Status: Approved (brainstorming phase)
+Status: Approved; implemented (generator + data + docs) with a
+data-grounded demo scenario added in Section 7.
 
 ## 1. Purpose
 
@@ -133,7 +134,7 @@ Fluxora-specific vocabulary used throughout the generated data:
   generating any other object, so SE ownership is consistent across every
   CSV — an SE appearing on an Opportunity also appears correctly on that
   Opportunity's POC and SE_Activity records.
-- **Row volumes** (approximate, larger/realistic tier):
+- **Row volumes** (exact, enforced by tests):
 
   | File | Rows |
   |---|---|
@@ -175,7 +176,74 @@ explaining, for a reader setting this demo up by hand:
 7. An explicit caveat that this feature area is new/evolving and menu
    names may have shifted since this doc was written.
 
-## 7. Out of Scope (this phase)
+## 7. Demo Scenario — "A Day With the SE Copilot" (data-grounded)
+
+This section walks the Copilot through one realistic day, using **actual
+records from the generated dataset** so a reviewer can follow along in the
+CSVs. The hero deal is **Barnett Group** — chosen because its data tells a
+story an SE Copilot is uniquely good at surfacing.
+
+### Cast (real rows in `output/`)
+
+| Field | Value | Source |
+|---|---|---|
+| SE (our protagonist) | **SE-037**, Strategic pod | `opportunity_team_members.csv` (OTM for OPP-0088) |
+| Account | **Barnett Group** (ACC-0058) — Retail & E-commerce, 2,978 employees, APAC; stack: Kubernetes, dbt, Airflow, Spark | `accounts.csv` |
+| Opportunity | **OPP-0088** — Lakehouse Core, **$592,391**, stage **Business Case**, close 2026-04-07 | `opportunities.csv` |
+| Economic buyer | **Ryan Miller**, Chief Data Officer | `contacts.csv` (CON-0025) |
+| Champions | **Jeffery Hernandez** & **Alexander Trujillo**, Senior Data Engineers | `contacts.csv` |
+| AE | **Christina Murphy** (Deal Owner) | `opportunity_team_members.csv` |
+| Competitor | **Snowflake** — "standardized for warehousing, comparing TCO" (threat: Low→Medium, two mentions) | `competitor_mentions.csv` |
+| POCs | **POC-0047** (At Risk) and **POC-0057** (Completed – Failed) — *both* targeting "sub-10s query latency on the benchmark dashboard" | `pocs.csv` |
+
+**The buried problem in the data:** Barnett Group has run the Lakehouse
+Core POC *twice* and missed the same sub-10s latency criterion both times
+(one POC is At Risk, the other already failed) — yet the SE's own check-in
+notes read "environment stable." Meanwhile the deal has advanced to
+Business Case at ~$592K, the economic buyer is a CDO, and Snowflake is
+quietly working a TCO angle. This is precisely the kind of cross-record
+contradiction that lives in nobody's head and never surfaces until the
+deal slips. The Copilot's job is to make it visible in seconds.
+
+### The walkthrough (4 Skills, in order of a real morning)
+
+1. **Deal Brief** — SE-037 opens the day with `Brief me on OPP-0088`. The
+   Copilot reads Opportunity + team + activities + competitor mentions and
+   returns: deal health (advanced to Business Case but POC criterion unmet
+   *twice* — flag), competitive picture (Snowflake TCO comparison,
+   escalating threat), stakeholders (CDO economic buyer, two SD-engineer
+   champions), and a recommended next step (get a written success-criteria
+   sign-off before pushing to Negotiation). **The "wow" moment:** it
+   catches the two-failed-POCs-vs-"stable"-notes contradiction a human
+   skimming the record would miss.
+
+2. **POC Tracker** — `Show me my at-risk POCs`. The Copilot lists POC-0047
+   (At Risk) and its already-failed sibling POC-0057, notes both share the
+   same unmet latency target, and drafts a status update for AE Christina
+   Murphy proposing a scoped re-test with an agreed benchmark dataset.
+
+3. **RFP Drafting** — a security questionnaire arrives from Barnett's CDO.
+   SE-037 pastes three questions; the Copilot answers them by reusing the
+   **master RFP answers** in `rfp_responses.csv` (the rows with no
+   opportunity link) — e.g. encryption at rest/in transit (AES-256 /
+   TLS 1.2+), SOC 2 Type II, and RBAC scoping via Governance Suite —
+   drafted in Fluxora's voice, with any gap flagged for SME review.
+
+4. **Discovery Prep** — SE-037 has a first call next week with a *different*
+   account and runs `Prep me for <account>`: company background, likely
+   pain points inferred from industry + tech stack, and a set of discovery
+   questions — showing the Copilot helps at the top of the funnel too, not
+   only on late-stage deals.
+
+### Why this lands with reviewers
+
+Every number above is real and reproducible from the seeded generator, so
+the demo can't be accused of hand-waving. The scenario shows all four
+skills, spans early-to-late funnel, and centers on a contradiction the
+Copilot surfaces that a busy SE would plausibly miss — which is the whole
+value thesis in Section 2 made concrete.
+
+## 8. Out of Scope (this phase)
 
 - Actually creating the Agent, Skills, or Connector inside a real ChatGPT
   Enterprise workspace.
@@ -184,11 +252,16 @@ explaining, for a reader setting this demo up by hand:
 - Building any of the four skills' underlying logic/prompts beyond what's
   described in the guideline document.
 
-## 8. Testing / Validation
+## 9. Testing / Validation
 
 - Running `scripts/generate_crm_data.py` twice with the same seed produces
   byte-identical output.
 - Every foreign key in every generated CSV resolves to an existing row in
-  its parent CSV (spot-checked, not necessarily exhaustively asserted in
-  code).
-- Row counts land within the approximate ranges in Section 5.
+  its parent CSV (asserted in `tests/test_generate_crm_data.py`).
+- Row counts match the targets in Section 5 exactly.
+- **Cross-record coherence** (added so the demo scenario holds up): every
+  staffed Opportunity has exactly one AE and one SE; each
+  Competitor_Mention__c names the same competitor as its Opportunity's
+  `primary_competitor`; each SE_Activity__c note and each POC__c success
+  criterion references the Opportunity's own product line. All asserted in
+  the per-object test modules (36 tests total).
