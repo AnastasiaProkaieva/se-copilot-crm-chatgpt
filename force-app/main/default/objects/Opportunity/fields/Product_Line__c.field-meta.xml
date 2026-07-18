@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Product_Line__c</fullName>
+    <label>Product Line</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+                <value>
+                    <fullName>Governance Suite</fullName>
+                    <default>false</default>
+                    <label>Governance Suite</label>
+                </value>
+                <value>
+                    <fullName>Lakehouse Core</fullName>
+                    <default>false</default>
+                    <label>Lakehouse Core</label>
+                </value>
+                <value>
+                    <fullName>ModelServe</fullName>
+                    <default>false</default>
+                    <label>ModelServe</label>
+                </value>
+                <value>
+                    <fullName>PipelineOps</fullName>
+                    <default>false</default>
+                    <label>PipelineOps</label>
+                </value>
+                <value>
+                    <fullName>StreamSync</fullName>
+                    <default>false</default>
+                    <label>StreamSync</label>
+                </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

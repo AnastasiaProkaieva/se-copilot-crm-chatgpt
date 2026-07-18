@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Buyer_Role__c</fullName>
+    <label>Buyer Role</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+                <value>
+                    <fullName>Champion</fullName>
+                    <default>false</default>
+                    <label>Champion</label>
+                </value>
+                <value>
+                    <fullName>Economic Buyer</fullName>
+                    <default>false</default>
+                    <label>Economic Buyer</label>
+                </value>
+                <value>
+                    <fullName>Technical Evaluator</fullName>
+                    <default>false</default>
+                    <label>Technical Evaluator</label>
+                </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
