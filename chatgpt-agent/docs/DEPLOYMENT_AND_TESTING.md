@@ -113,7 +113,5 @@ Suggested initial targets:
 
 - 100% of live CRM claims traceable to Salesforce output
 - 100% of RFP claims traceable to approved content
-- 0 unconfirmed writes
-- 0 delete operations
 - Barnett regression test catches all material contradictions
 - Less than 10% user correction rate during pilot

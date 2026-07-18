@@ -19,5 +19,4 @@ Use this table before uploading product, battlecard, RFP, security, or pricing c
 - Pricing and licensing policy
 - Fluxora voice and terminology guide
 
-
 Do not upload multiple conflicting versions without marking the current approved source and the superseded source.

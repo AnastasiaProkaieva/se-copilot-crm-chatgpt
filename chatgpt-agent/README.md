@@ -12,7 +12,6 @@ Use one **Fluxora SE Copilot** agent or main skill as the entry point, backed by
 4. `fluxora-deal-brief`
 5. `fluxora-product-knowledge` for non-CRM product, security, and competitive questions
 6. `fluxora-crm-capability-audit` for safe read/write scope discovery
-7. `fluxora-crm-writeback` as an optional, separately governed write skill
 
 In environments where you cannot build a Workspace Agent (e.g. ChatGPT Pro or Plus), install the individual workflow skills and use them directly in chat via `@`-mention. Skill selection is model-driven; there is no composite router skill.
 
@@ -29,7 +28,7 @@ Connect or explicitly select the app named **Salesforce CRM** when the task need
 
 ### Business or Enterprise Workspace Agent
 
-Use `agent/AGENT_INSTRUCTIONS.md` as the agent's instruction base. Attach the Salesforce CRM app and the four core workflow skills. Add `fluxora-product-knowledge`. Add `fluxora-crm-writeback` only after a capability audit and governance review.
+Use `agent/AGENT_INSTRUCTIONS.md` as the agent's instruction base. Attach the Salesforce CRM app and the four core workflow skills. Add `fluxora-product-knowledge`.
 
 ### Plugin packaging
 
