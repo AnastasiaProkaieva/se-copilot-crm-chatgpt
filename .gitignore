@@ -3,15 +3,12 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .DS_Store
-.cursor/
 .forceignore
 .mvn/
 .sfdx/
 .vscode/
-.claude/
 .gitignore
 
 # Local staging / scratch — not for the public repo
-stage_phase/
 docs/superpowers/
 force-app/main/default/ext*
