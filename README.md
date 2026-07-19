@@ -9,10 +9,10 @@ This repo is a working reference. It ships:
 
 - a **step-by-step how-to** (this file) for wiring a real Salesforce org to
   ChatGPT, read-only, using a Hosted MCP Server + an External Client App;
-- seven **portable Skills** (`chatgpt-agent/skills/`) and a **Workspace Agent**
+- six **portable Skills** (`chatgpt-agent/skills/`) and a **Workspace Agent**
   instruction set (`chatgpt-agent/agent/`);
 - the **Salesforce metadata** the demo depends on (`force-app/`) — custom
-  objects, fields, a permission set, and a ready-to-adapt External Client App;
+  objects, fields, and a permission set;
 - a **synthetic-data generator** (`scripts/`) and a sample dataset
   (`output/`) so you can populate an empty org and follow the worked example.
 
@@ -46,7 +46,8 @@ objects and knowledge and the same walkthrough holds.
   │ External Client App   │              │  Custom MCP App (connector)  │
   │  (OAuth client)       │              │   points at the MCP URL      │
   └───────────────────────┘              └──────────────────────────────┘
-        * writeback is optional, mutating, and separately governed
+        * writeback is optional, mutating, and separately governed —
+          it is described here but not shipped in this repo (see Part 3)
 ```
 
 - **Read-only by design.** You connect the standard `platform/sobject-reads`
@@ -57,8 +58,9 @@ objects and knowledge and the same walkthrough holds.
   service accounts and no machine-to-machine flows.
 - **Skills do the thinking.** The connector just fetches records; the Skills
   encode the SE judgment (risk rules, contradiction detection, source
-  discipline). See [`docs/SKILLS_AND_PROMPTS.md`](docs/SKILLS_AND_PROMPTS.md)
-  for the full catalog and copy-paste prompts.
+  discipline). See the skill table in [Part 3](#part-3--skills--the-agent) for
+  the catalog and [`chatgpt-agent/docs/DEMO_PROMPTS.md`](chatgpt-agent/docs/DEMO_PROMPTS.md)
+  for copy-paste prompts.
 
 ---
 
@@ -136,12 +138,11 @@ create the ECA now with a placeholder and paste the real callback in afterward.
    **Consumer Key** (client ID). You'll paste it into ChatGPT. (A consumer
    secret is not required for this flow.)
 
-This repo ships a starter ECA under
-`force-app/main/default/externalClientApps/ChatGPT_MCP.*` you can deploy as a
-head-start (`sf project deploy start --source-dir force-app`), but you'll still
-edit the **callback URL** and **contact email** for your own org and finish
-OAuth in Setup. See the [pre-publish note](#before-you-publish-or-fork) before
-committing your edited copy anywhere public.
+Create the ECA in Setup as above. This repo does **not** publish an External
+Client App — the ECA metadata carries org-specific values (callback URL, contact
+email) and is intentionally git-ignored (`force-app/main/default/ext*`). If you
+build one locally and want to version it, genericize those values first and see
+the [pre-publish note](#before-you-publish-or-fork).
 
 ### 1.3 (Optional) tighten access
 
@@ -213,8 +214,9 @@ by default; tools carrying the MCP `readOnlyHint` annotation auto-execute — th
 
 Now attach the intelligence. A **Skill** is a folder with a `SKILL.md` (YAML
 frontmatter + Markdown body) following the open [Agent Skills
-standard](https://agentskills.io). This repo ships seven under
-`chatgpt-agent/skills/`:
+standard](https://agentskills.io). This repo ships **six** under
+`chatgpt-agent/skills/` (a seventh, `fluxora-crm-writeback`, is described below
+but intentionally not included — see the note under the table):
 
 | Skill | Does | CRM |
 |---|---|---|
@@ -224,10 +226,17 @@ standard](https://agentskills.io). This repo ships seven under
 | `fluxora-rfp-drafting` | Drafts RFP/security answers from approved reusable responses; flags SME-review needs | read |
 | `fluxora-product-knowledge` | Product/architecture/security/competitor Q&A from knowledge files — **no CRM record required** | optional |
 | `fluxora-crm-capability-audit` | Non-mutating audit of what the connected app/MCP scope can actually do | read |
-| `fluxora-crm-writeback` | **The only mutating skill** — create/update after explicit confirmation, with preview + read-after-write | write |
+| `fluxora-crm-writeback`† | **The only mutating skill** — create/update after explicit confirmation, with preview + read-after-write | write |
 
-Full purpose, inputs, outputs, and copy-paste trigger prompts for every skill
-are in **[`docs/SKILLS_AND_PROMPTS.md`](docs/SKILLS_AND_PROMPTS.md)**.
+> † `fluxora-crm-writeback` is described here for completeness but is **not
+> included in this repo**. Writeback is optional, mutating, and separately
+> governed; the six read-only skills above are the shipped set. Wherever the
+> steps below reference `fluxora-crm-writeback`, treat it as something you author
+> and add yourself after the capability audit and a sandbox test.
+
+Purpose, inputs, and outputs for each skill live in its own `SKILL.md` under
+`chatgpt-agent/skills/`; copy-paste trigger prompts are in
+**[`chatgpt-agent/docs/DEMO_PROMPTS.md`](chatgpt-agent/docs/DEMO_PROMPTS.md)**.
 
 ### 3.1 Install the Skills
 
@@ -253,8 +262,9 @@ are in **[`docs/SKILLS_AND_PROMPTS.md`](docs/SKILLS_AND_PROMPTS.md)**.
    instructions (role, routing table, grounding rules, read/write policy).
 3. **Tools → + Add tool:** add your **custom MCP App** (from Part 2), the four
    core workflow skills, and `fluxora-product-knowledge`.
-4. Add approved **knowledge files** (battlecards, RFP master answers — see
-   `docs/fluxora_documentation/`).
+4. Add approved **knowledge files** (battlecards, RFP master answers — the
+   upload-ready set is in
+   `chatgpt-agent/docs/fluxora_documentation/fluxora-agent-knowledge/`).
 5. Set app writes to **Always ask** (or stricter). Add `fluxora-crm-writeback`
    **only** after running the capability audit and a sandbox test.
 6. **Preview**, then **Create**, then manage distribution under **Channels →
@@ -319,19 +329,24 @@ each are in `chatgpt-agent/docs/DEPLOYMENT_AND_TESTING.md`.
 
 ```
 README.md                         ← you are here
-docs/
-  SKILLS_AND_PROMPTS.md           ← unified catalog: every skill + its prompts
-  superpowers/                    ← design spec, plan, ChatGPT setup guide
-  fluxora_documentation/          ← knowledge pack (battlecards, RFP answers, product docs)
 chatgpt-agent/
+  README.md                       ← skill-pack overview
   agent/AGENT_INSTRUCTIONS.md     ← Workspace Agent instruction base
-  skills/fluxora-*/               ← the 7 Skills (SKILL.md + references/)
-  docs/                           ← deployment/testing, design notes, packaging
-  tools/validate_skills.py        ← SKILL.md frontmatter validator
+  skills/fluxora-*/               ← the 6 Skills (SKILL.md + references/)
+  docs/
+    DEPLOYMENT_AND_TESTING.md          ← install, capability checks, regression tests
+    DEMO_PROMPTS.md                    ← copy-paste demo prompt library
+    DESIGN_RECOMMENDATIONS.md          ← design corrections & additions
+    FLUXORA_STORY.md                   ← narrative walkthrough
+    solution-architecture.drawio       ← architecture diagram
+    fluxora_documentation/             ← knowledge pack (see below)
+      fluxora-agent-knowledge/         ← canonical upload-ready set
+      fluxora-knowledge-pack-draft/    ← draft/source material
+      products_information/            ← per-product source docs
 force-app/main/default/
   objects/                        ← custom objects + fields + External_Id__c keys
-  externalClientApps/ChatGPT_MCP  ← starter External Client App (genericize before publishing)
   permissionsets/Fluxora_Demo_Access
+  (External Client App metadata is git-ignored — create it per Step 1.2)
 scripts/
   generate_crm_data.py            ← synthetic data generator (seeded, reproducible)
   crm_data/, tests/
@@ -342,7 +357,7 @@ output/*.csv                      ← generated sample dataset (8 files)
 
 ## Appendix A — Deploy the demo schema + load synthetic data
 
-The demo data does **not** fit stock Salesforce — it relies on custom objects
+The demo data does **not** fit stock Salesforce (however can be simply adapted by changes in skills) — it relies on custom objects
 (`POC__c`, `SE_Activity__c`, `Competitor_Mention__c`, `RFP_Response__c`,
 `Opp_Team_Member__c`), custom Account/Contact/Opportunity fields, and an
 `External_Id__c` (Text, Unique, External ID) key on every object.
@@ -416,30 +431,20 @@ MCP.
 
 ## Before you publish or fork
 
-This repo is meant to be public, so **scrub org-specific values first**:
+This repo is meant to be public. The exclusions below are **already applied**
+via `.gitignore`; if you fork or copy the folder, keep them in place and re-check
+before pushing:
 
-- **`.gitignore`** — add `.sfdx/`, `.vscode/`, `.cursor/`, `.mvn/`, `.DS_Store`,
-  and (if you don't want it public) `stage_phase/`. A bare `git add .` would
-  otherwise commit your org's schema cache and local editor config.
-- **`force-app/.../ChatGPT_MCP.*`** — replace the real `contactEmail` and the
-  real ChatGPT `callbackUrl` with placeholders. **Never commit a consumer
-  secret, access token, or refresh token** (none are present today — keep it
-  that way).
-- **Absolute paths** — `docs/superpowers/plans/*.md` contain local
-  `/Users/...` paths; genericize if you care.
+- **`.gitignore`** already excludes `.sfdx/`, `.vscode/`, `.cursor/`, `.mvn/`,
+  `.DS_Store`, `stage_phase/`, `docs/superpowers/` (local design spec + plan,
+  which may contain `/Users/...` paths), and all External Client App metadata
+  (`force-app/main/default/ext*`). A bare `git add .` will not pull in your org's
+  schema cache, local editor config, or ECA.
+- **External Client App** — the ECA is git-ignored, so it never publishes. If
+  you deliberately un-ignore one to share it, first replace the real
+  `contactEmail` and ChatGPT `callbackUrl` with placeholders, and **never commit
+  a consumer secret, access token, or refresh token.**
 - **No `.sfdx/` auth files** in history — verify with
   `git log --all --stat | grep -i sfdx`.
 
----
 
-## Caveats
-
-- **Edition/license gating for Hosted MCP is unresolved in public docs.** The
-  docs state the System-Admin requirement but don't enumerate which editions
-  or add-ons include Hosted MCP Servers. Verify in your org's Setup and
-  contract before relying on availability.
-- **UIs are moving.** ChatGPT's Apps/Plugins/Connectors labels and Salesforce's
-  MCP-server enablement toggle change between releases. Treat every menu path
-  here as directional and confirm live.
-- **Not production-hardened.** This is a demo/reference. Do a security and
-  governance review before pointing it at production data.
